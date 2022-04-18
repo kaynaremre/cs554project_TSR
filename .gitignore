@@ -1,7 +1,6 @@
-Train/
-Test/
-/Meta/
+Train_all/
+Test_all/
 *Meta.csv
 *Test.csv
 *Train.csv
-*.csv
+
