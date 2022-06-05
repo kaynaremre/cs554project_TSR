@@ -1,0 +1,901 @@
+filename,x1,y1,x2,y2,class,Train/Test,width,height,new_path,new_bb,new_width,new_height,class_idx
+db_lisa_tiny/sample_001.png,190,40,210,62,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_001.png,[ 40. 190.  62. 210.],704,480,1
+db_lisa_tiny/sample_002.png,4,246,42,282,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_002.png,[246.   4. 282.  42.],704,480,1
+db_lisa_tiny/sample_003.png,389,286,417,313,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_003.png,[286. 389. 313. 417.],704,480,1
+db_lisa_tiny/sample_004.png,337,243,346,250,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_004.png,[243. 337. 250. 346.],704,480,1
+db_lisa_tiny/sample_005.png,414,249,437,269,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_005.png,[249. 414. 269. 437.],704,480,1
+db_lisa_tiny/sample_006.png,476,137,513,173,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_006.png,[137. 476. 173. 513.],704,480,1
+db_lisa_tiny/sample_007.png,30,26,53,49,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_007.png,[26. 30. 49. 53.],704,480,1
+db_lisa_tiny/sample_008.png,388,289,406,308,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_008.png,[289. 388. 308. 406.],704,480,1
+db_lisa_tiny/sample_009.png,489,17,527,52,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_009.png,[ 17. 489.  52. 527.],704,480,1
+db_lisa_tiny/sample_010.png,446,241,459,253,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_010.png,[241. 446. 253. 459.],704,480,1
+db_lisa_tiny/sample_011.png,603,229,655,277,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_011.png,[229. 603. 277. 655.],704,480,1
+db_lisa_tiny/sample_012.png,309,280,341,311,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_012.png,[280. 309. 311. 341.],704,480,1
+db_lisa_tiny/sample_013.png,488,39,506,56,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_013.png,[ 39. 488.  56. 506.],704,480,1
+db_lisa_tiny/sample_014.png,407,311,421,325,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_014.png,[311. 407. 325. 421.],704,480,1
+db_lisa_tiny/sample_015.png,498,192,554,245,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_015.png,[192. 498. 245. 554.],704,480,1
+db_lisa_tiny/sample_016.png,436,291,454,308,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_016.png,[291. 436. 308. 454.],704,480,1
+db_lisa_tiny/sample_017.png,474,290,502,316,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_017.png,[290. 474. 316. 502.],704,480,1
+db_lisa_tiny/sample_018.png,190,221,204,233,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_018.png,[221. 190. 233. 204.],704,480,1
+db_lisa_tiny/sample_019.png,240,31,255,50,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_019.png,[ 31. 240.  50. 255.],704,480,1
+db_lisa_tiny/sample_020.png,93,33,112,52,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_020.png,[ 33.  93.  52. 112.],704,480,1
+db_lisa_tiny/sample_021.png,567,244,623,298,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_021.png,[244. 567. 298. 623.],704,480,1
+db_lisa_tiny/sample_022.png,547,229,564,244,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_022.png,[229. 547. 244. 564.],704,480,1
+db_lisa_tiny/sample_023.png,12,263,42,291,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_023.png,[263.  12. 291.  42.],704,480,1
+db_lisa_tiny/sample_024.png,526,141,566,178,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_024.png,[141. 526. 178. 566.],704,480,1
+db_lisa_tiny/sample_025.png,606,173,643,208,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_025.png,[173. 606. 208. 643.],704,480,1
+db_lisa_tiny/sample_026.png,390,287,410,308,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_026.png,[287. 390. 308. 410.],704,480,1
+db_lisa_tiny/sample_027.png,400,174,432,204,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_027.png,[174. 400. 204. 432.],704,480,1
+db_lisa_tiny/sample_028.png,510,293,529,311,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_028.png,[293. 510. 311. 529.],704,480,1
+db_lisa_tiny/sample_029.png,76,306,95,325,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_029.png,[306.  76. 325.  95.],704,480,1
+db_lisa_tiny/sample_030.png,660,68,681,88,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_030.png,[ 68. 660.  88. 681.],704,480,1
+db_lisa_tiny/sample_031.png,133,300,157,324,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_031.png,[300. 133. 324. 157.],704,480,1
+db_lisa_tiny/sample_032.png,189,295,210,316,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_032.png,[295. 189. 316. 210.],704,480,1
+db_lisa_tiny/sample_033.png,518,102,571,150,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_033.png,[102. 518. 150. 571.],704,480,1
+db_lisa_tiny/sample_034.png,493,302,511,320,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_034.png,[302. 493. 320. 511.],704,480,1
+db_lisa_tiny/sample_035.png,639,286,666,312,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_035.png,[286. 639. 312. 666.],704,480,1
+db_lisa_tiny/sample_036.png,480,262,526,307,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_036.png,[262. 480. 307. 526.],704,480,1
+db_lisa_tiny/sample_037.png,599,273,625,299,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_037.png,[273. 599. 299. 625.],704,480,1
+db_lisa_tiny/sample_038.png,39,212,59,233,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_038.png,[212.  39. 233.  59.],704,480,1
+db_lisa_tiny/sample_039.png,468,264,514,307,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_039.png,[264. 468. 307. 514.],704,480,1
+db_lisa_tiny/sample_040.png,354,295,377,316,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_040.png,[295. 354. 316. 377.],704,480,1
+db_lisa_tiny/sample_041.png,534,119,606,180,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_041.png,[119. 534. 180. 606.],704,480,1
+db_lisa_tiny/sample_042.png,378,271,390,283,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_042.png,[271. 378. 283. 390.],704,480,1
+db_lisa_tiny/sample_043.png,487,161,520,191,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_043.png,[161. 487. 191. 520.],704,480,1
+db_lisa_tiny/sample_044.png,529,216,554,241,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_044.png,[216. 529. 241. 554.],704,480,1
+db_lisa_tiny/sample_045.png,419,261,436,278,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_045.png,[261. 419. 278. 436.],704,480,1
+db_lisa_tiny/sample_046.png,54,40,93,78,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_046.png,[40. 54. 78. 93.],704,480,1
+db_lisa_tiny/sample_047.png,561,127,652,210,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_047.png,[127. 561. 210. 652.],704,480,1
+db_lisa_tiny/sample_048.png,459,30,491,59,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_048.png,[ 30. 459.  59. 491.],704,480,1
+db_lisa_tiny/sample_049.png,540,43,566,67,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_049.png,[ 43. 540.  67. 566.],704,480,1
+db_lisa_tiny/sample_050.png,373,230,391,244,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_050.png,[230. 373. 244. 391.],704,480,1
+db_lisa_tiny/sample_051.png,133,296,156,319,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_051.png,[296. 133. 319. 156.],704,480,1
+db_lisa_tiny/sample_052.png,429,285,449,304,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_052.png,[285. 429. 304. 449.],704,480,1
+db_lisa_tiny/sample_053.png,496,55,519,77,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_053.png,[ 55. 496.  77. 519.],704,480,1
+db_lisa_tiny/sample_054.png,519,52,542,74,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_054.png,[ 52. 519.  74. 542.],704,480,1
+db_lisa_tiny/sample_055.png,173,299,193,318,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_055.png,[299. 173. 318. 193.],704,480,1
+db_lisa_tiny/sample_056.png,283,288,310,314,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_056.png,[288. 283. 314. 310.],704,480,1
+db_lisa_tiny/sample_057.png,474,274,498,297,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_057.png,[274. 474. 297. 498.],704,480,1
+db_lisa_tiny/sample_058.png,634,205,674,243,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_058.png,[205. 634. 243. 674.],704,480,1
+db_lisa_tiny/sample_059.png,348,296,369,316,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_059.png,[296. 348. 316. 369.],704,480,1
+db_lisa_tiny/sample_060.png,449,236,465,250,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_060.png,[236. 449. 250. 465.],704,480,1
+db_lisa_tiny/sample_061.png,134,45,157,68,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_061.png,[ 45. 134.  68. 157.],704,480,1
+db_lisa_tiny/sample_062.png,273,226,290,241,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_062.png,[226. 273. 241. 290.],704,480,1
+db_lisa_tiny/sample_063.png,426,267,468,306,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_063.png,[267. 426. 306. 468.],704,480,1
+db_lisa_tiny/sample_064.png,40,180,75,210,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_064.png,[180.  40. 210.  75.],704,480,1
+db_lisa_tiny/sample_065.png,528,142,572,183,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_065.png,[142. 528. 183. 572.],704,480,1
+db_lisa_tiny/sample_066.png,142,45,165,66,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_066.png,[ 45. 142.  66. 165.],704,480,1
+db_lisa_tiny/sample_067.png,457,280,481,303,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_067.png,[280. 457. 303. 481.],704,480,1
+db_lisa_tiny/sample_068.png,385,312,397,326,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_068.png,[312. 385. 326. 397.],704,480,1
+db_lisa_tiny/sample_069.png,178,298,198,317,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_069.png,[298. 178. 317. 198.],704,480,1
+db_lisa_tiny/sample_070.png,527,29,550,51,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_070.png,[ 29. 527.  51. 550.],704,480,1
+db_lisa_tiny/sample_071.png,590,75,658,137,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_071.png,[ 75. 590. 137. 658.],704,480,1
+db_lisa_tiny/sample_072.png,491,261,527,296,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_072.png,[261. 491. 296. 527.],704,480,1
+db_lisa_tiny/sample_073.png,420,241,433,253,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_073.png,[241. 420. 253. 433.],704,480,1
+db_lisa_tiny/sample_074.png,340,279,374,307,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_074.png,[279. 340. 307. 374.],704,480,1
+db_lisa_tiny/sample_075.png,41,310,61,328,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_075.png,[310.  41. 328.  61.],704,480,1
+db_lisa_tiny/sample_076.png,395,276,407,285,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_076.png,[276. 395. 285. 407.],704,480,1
+db_lisa_tiny/sample_077.png,608,166,649,203,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_077.png,[166. 608. 203. 649.],704,480,1
+db_lisa_tiny/sample_078.png,538,237,575,272,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_078.png,[237. 538. 272. 575.],704,480,1
+db_lisa_tiny/sample_079.png,591,202,643,249,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_079.png,[202. 591. 249. 643.],704,480,1
+db_lisa_tiny/sample_080.png,526,157,562,193,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_080.png,[157. 526. 193. 562.],704,480,1
+db_lisa_tiny/sample_081.png,481,239,491,251,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_081.png,[239. 481. 251. 491.],704,480,1
+db_lisa_tiny/sample_082.png,235,201,262,225,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_082.png,[201. 235. 225. 262.],704,480,1
+db_lisa_tiny/sample_083.png,630,136,690,194,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_083.png,[136. 630. 194. 690.],704,480,1
+db_lisa_tiny/sample_084.png,80,26,117,61,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_084.png,[ 26.  80.  61. 117.],704,480,1
+db_lisa_tiny/sample_085.png,554,223,588,255,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_085.png,[223. 554. 255. 588.],704,480,1
+db_lisa_tiny/sample_086.png,80,33,101,52,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_086.png,[ 33.  80.  52. 101.],704,480,1
+db_lisa_tiny/sample_087.png,632,163,673,202,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_087.png,[163. 632. 202. 673.],704,480,1
+db_lisa_tiny/sample_088.png,342,234,385,272,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_088.png,[234. 342. 272. 385.],704,480,1
+db_lisa_tiny/sample_089.png,402,266,427,291,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_089.png,[266. 402. 291. 427.],704,480,1
+db_lisa_tiny/sample_090.png,651,167,696,207,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_090.png,[167. 651. 207. 696.],704,480,1
+db_lisa_tiny/sample_091.png,155,213,178,233,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_091.png,[213. 155. 233. 178.],704,480,1
+db_lisa_tiny/sample_092.png,10,251,46,284,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_092.png,[251.  10. 284.  46.],704,480,1
+db_lisa_tiny/sample_093.png,482,244,522,282,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_093.png,[244. 482. 282. 522.],704,480,1
+db_lisa_tiny/sample_094.png,163,42,185,65,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_094.png,[ 42. 163.  65. 185.],704,480,1
+db_lisa_tiny/sample_095.png,409,296,425,312,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_095.png,[296. 409. 312. 425.],704,480,1
+db_lisa_tiny/sample_096.png,527,180,557,210,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_096.png,[180. 527. 210. 557.],704,480,1
+db_lisa_tiny/sample_097.png,531,256,564,287,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_097.png,[256. 531. 287. 564.],704,480,1
+db_lisa_tiny/sample_098.png,495,236,539,275,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_098.png,[236. 495. 275. 539.],704,480,1
+db_lisa_tiny/sample_099.png,426,246,452,273,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_099.png,[246. 426. 273. 452.],704,480,1
+db_lisa_tiny/sample_100.png,421,253,456,286,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_100.png,[253. 421. 286. 456.],704,480,1
+db_lisa_tiny/sample_101.png,438,18,458,45,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_101.png,[ 18. 438.  45. 458.],704,480,1
+db_lisa_tiny/sample_102.png,433,228,451,242,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_102.png,[228. 433. 242. 451.],704,480,1
+db_lisa_tiny/sample_103.png,434,222,453,238,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_103.png,[222. 434. 238. 453.],704,480,1
+db_lisa_tiny/sample_104.png,494,253,533,291,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_104.png,[253. 494. 291. 533.],704,480,1
+db_lisa_tiny/sample_105.png,658,203,702,239,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_105.png,[203. 658. 239. 702.],704,480,1
+db_lisa_tiny/sample_106.png,33,289,55,311,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_106.png,[289.  33. 311.  55.],704,480,1
+db_lisa_tiny/sample_107.png,566,218,628,277,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_107.png,[218. 566. 277. 628.],704,480,1
+db_lisa_tiny/sample_108.png,633,196,671,229,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_108.png,[196. 633. 229. 671.],704,480,1
+db_lisa_tiny/sample_109.png,592,106,645,155,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_109.png,[106. 592. 155. 645.],704,480,1
+db_lisa_tiny/sample_110.png,384,180,413,208,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_110.png,[180. 384. 208. 413.],704,480,1
+db_lisa_tiny/sample_111.png,572,6,628,57,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_111.png,[  6. 572.  57. 628.],704,480,1
+db_lisa_tiny/sample_112.png,266,191,296,219,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_112.png,[191. 266. 219. 296.],704,480,1
+db_lisa_tiny/sample_113.png,614,49,694,122,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_113.png,[ 49. 614. 122. 694.],704,480,1
+db_lisa_tiny/sample_114.png,540,133,582,173,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_114.png,[133. 540. 173. 582.],704,480,1
+db_lisa_tiny/sample_115.png,572,116,621,162,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_115.png,[116. 572. 162. 621.],704,480,1
+db_lisa_tiny/sample_116.png,422,47,446,69,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_116.png,[ 47. 422.  69. 446.],704,480,1
+db_lisa_tiny/sample_117.png,514,180,555,219,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_117.png,[180. 514. 219. 555.],704,480,1
+db_lisa_tiny/sample_118.png,568,280,591,304,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_118.png,[280. 568. 304. 591.],704,480,1
+db_lisa_tiny/sample_119.png,394,212,420,234,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_119.png,[212. 394. 234. 420.],704,480,1
+db_lisa_tiny/sample_120.png,299,251,336,286,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_120.png,[251. 299. 286. 336.],704,480,1
+db_lisa_tiny/sample_121.png,522,187,548,214,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_121.png,[187. 522. 214. 548.],704,480,1
+db_lisa_tiny/sample_122.png,392,219,440,263,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_122.png,[219. 392. 263. 440.],704,480,1
+db_lisa_tiny/sample_123.png,631,186,688,239,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_123.png,[186. 631. 239. 688.],704,480,1
+db_lisa_tiny/sample_124.png,40,210,62,229,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_124.png,[210.  40. 229.  62.],704,480,1
+db_lisa_tiny/sample_125.png,374,293,394,312,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_125.png,[293. 374. 312. 394.],704,480,1
+db_lisa_tiny/sample_126.png,190,228,209,244,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_126.png,[228. 190. 244. 209.],704,480,1
+db_lisa_tiny/sample_127.png,609,222,632,242,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_127.png,[222. 609. 242. 632.],704,480,1
+db_lisa_tiny/sample_128.png,142,288,167,312,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_128.png,[288. 142. 312. 167.],704,480,1
+db_lisa_tiny/sample_129.png,138,44,161,65,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_129.png,[ 44. 138.  65. 161.],704,480,1
+db_lisa_tiny/sample_130.png,453,182,475,205,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_130.png,[182. 453. 205. 475.],704,480,1
+db_lisa_tiny/sample_131.png,448,236,478,261,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_131.png,[236. 448. 261. 478.],704,480,1
+db_lisa_tiny/sample_132.png,45,39,74,66,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_132.png,[39. 45. 66. 74.],704,480,1
+db_lisa_tiny/sample_133.png,583,153,638,208,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_133.png,[153. 583. 208. 638.],704,480,1
+db_lisa_tiny/sample_134.png,345,37,363,59,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_134.png,[ 37. 345.  59. 363.],704,480,1
+db_lisa_tiny/sample_135.png,403,307,417,321,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_135.png,[307. 403. 321. 417.],704,480,1
+db_lisa_tiny/sample_136.png,467,222,489,241,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_136.png,[222. 467. 241. 489.],704,480,1
+db_lisa_tiny/sample_137.png,549,27,575,51,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_137.png,[ 27. 549.  51. 575.],704,480,1
+db_lisa_tiny/sample_138.png,623,207,663,245,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_138.png,[207. 623. 245. 663.],704,480,1
+db_lisa_tiny/sample_139.png,448,194,469,216,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_139.png,[194. 448. 216. 469.],704,480,1
+db_lisa_tiny/sample_140.png,143,56,177,89,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_140.png,[ 56. 143.  89. 177.],704,480,1
+db_lisa_tiny/sample_141.png,581,126,650,189,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_141.png,[126. 581. 189. 650.],704,480,1
+db_lisa_tiny/sample_142.png,636,218,688,271,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_142.png,[218. 636. 271. 688.],704,480,1
+db_lisa_tiny/sample_143.png,306,238,317,248,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_143.png,[238. 306. 248. 317.],704,480,1
+db_lisa_tiny/sample_144.png,392,318,402,327,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_144.png,[318. 392. 327. 402.],704,480,1
+db_lisa_tiny/sample_145.png,247,209,272,232,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_145.png,[209. 247. 232. 272.],704,480,1
+db_lisa_tiny/sample_146.png,603,36,631,62,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_146.png,[ 36. 603.  62. 631.],704,480,1
+db_lisa_tiny/sample_147.png,582,151,626,195,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_147.png,[151. 582. 195. 626.],704,480,1
+db_lisa_tiny/sample_148.png,399,266,424,292,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_148.png,[266. 399. 292. 424.],704,480,1
+db_lisa_tiny/sample_149.png,660,74,679,93,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_149.png,[ 74. 660.  93. 679.],704,480,1
+db_lisa_tiny/sample_150.png,536,165,569,197,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_150.png,[165. 536. 197. 569.],704,480,1
+db_lisa_tiny/sample_151.png,443,194,463,215,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_151.png,[194. 443. 215. 463.],704,480,1
+db_lisa_tiny/sample_152.png,555,216,581,243,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_152.png,[216. 555. 243. 581.],704,480,1
+db_lisa_tiny/sample_153.png,166,201,188,224,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_153.png,[201. 166. 224. 188.],704,480,1
+db_lisa_tiny/sample_154.png,432,279,453,300,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_154.png,[279. 432. 300. 453.],704,480,1
+db_lisa_tiny/sample_155.png,437,194,456,214,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_155.png,[194. 437. 214. 456.],704,480,1
+db_lisa_tiny/sample_156.png,588,305,609,325,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_156.png,[305. 588. 325. 609.],704,480,1
+db_lisa_tiny/sample_157.png,455,217,478,238,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_157.png,[217. 455. 238. 478.],704,480,1
+db_lisa_tiny/sample_158.png,551,219,599,263,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_158.png,[219. 551. 263. 599.],704,480,1
+db_lisa_tiny/sample_159.png,462,281,486,303,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_159.png,[281. 462. 303. 486.],704,480,1
+db_lisa_tiny/sample_160.png,37,54,57,73,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_160.png,[54. 37. 73. 57.],704,480,1
+db_lisa_tiny/sample_161.png,490,264,520,292,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_161.png,[264. 490. 292. 520.],704,480,1
+db_lisa_tiny/sample_162.png,524,177,580,225,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_162.png,[177. 524. 225. 580.],704,480,1
+db_lisa_tiny/sample_163.png,365,170,401,203,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_163.png,[170. 365. 203. 401.],704,480,1
+db_lisa_tiny/sample_164.png,568,153,611,194,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_164.png,[153. 568. 194. 611.],704,480,1
+db_lisa_tiny/sample_165.png,516,19,560,58,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_165.png,[ 19. 516.  58. 560.],704,480,1
+db_lisa_tiny/sample_166.png,135,190,161,213,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_166.png,[190. 135. 213. 161.],704,480,1
+db_lisa_tiny/sample_167.png,413,214,443,239,stop,Test,640,480,lisa_resize/db_lisa_tiny/sample_167.png,[214. 413. 239. 443.],704,480,1
+db_lisa_tiny/sample_168.png,467,1,499,31,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_168.png,[  1. 467.  31. 499.],704,480,1
+db_lisa_tiny/sample_169.png,562,199,599,231,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_169.png,[199. 562. 231. 599.],704,480,1
+db_lisa_tiny/sample_170.png,645,203,685,241,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_170.png,[203. 645. 241. 685.],704,480,1
+db_lisa_tiny/sample_171.png,465,187,504,221,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_171.png,[187. 465. 221. 504.],704,480,1
+db_lisa_tiny/sample_172.png,625,292,651,317,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_172.png,[292. 625. 317. 651.],704,480,1
+db_lisa_tiny/sample_173.png,422,223,437,238,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_173.png,[223. 422. 238. 437.],704,480,1
+db_lisa_tiny/sample_174.png,153,307,170,323,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_174.png,[307. 153. 323. 170.],704,480,1
+db_lisa_tiny/sample_175.png,605,175,668,233,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_175.png,[175. 605. 233. 668.],704,480,1
+db_lisa_tiny/sample_176.png,95,204,116,222,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_176.png,[204.  95. 222. 116.],704,480,1
+db_lisa_tiny/sample_177.png,584,177,620,211,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_177.png,[177. 584. 211. 620.],704,480,1
+db_lisa_tiny/sample_178.png,263,41,283,60,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_178.png,[ 41. 263.  60. 283.],704,480,1
+db_lisa_tiny/sample_179.png,521,196,544,219,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_179.png,[196. 521. 219. 544.],704,480,1
+db_lisa_tiny/sample_180.png,270,288,303,317,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_180.png,[288. 270. 317. 303.],704,480,1
+db_lisa_tiny/sample_181.png,223,292,253,319,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_181.png,[292. 223. 319. 253.],704,480,1
+db_lisa_tiny/sample_182.png,389,231,407,246,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_182.png,[231. 389. 246. 407.],704,480,1
+db_lisa_tiny/sample_183.png,649,5,689,42,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_183.png,[  5. 649.  42. 689.],704,480,1
+db_lisa_tiny/sample_184.png,485,41,503,58,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_184.png,[ 41. 485.  58. 503.],704,480,1
+db_lisa_tiny/sample_185.png,586,40,618,69,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_185.png,[ 40. 586.  69. 618.],704,480,1
+db_lisa_tiny/sample_186.png,189,201,213,224,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_186.png,[201. 189. 224. 213.],704,480,1
+db_lisa_tiny/sample_187.png,382,287,402,306,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_187.png,[287. 382. 306. 402.],704,480,1
+db_lisa_tiny/sample_188.png,375,316,383,323,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_188.png,[316. 375. 323. 383.],704,480,1
+db_lisa_tiny/sample_189.png,406,239,421,252,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_189.png,[239. 406. 252. 421.],704,480,1
+db_lisa_tiny/sample_190.png,485,152,529,191,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_190.png,[152. 485. 191. 529.],704,480,1
+db_lisa_tiny/sample_191.png,103,208,124,231,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_191.png,[208. 103. 231. 124.],704,480,1
+db_lisa_tiny/sample_192.png,612,298,637,322,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_192.png,[298. 612. 322. 637.],704,480,1
+db_lisa_tiny/sample_193.png,100,196,118,212,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_193.png,[196. 100. 212. 118.],704,480,1
+db_lisa_tiny/sample_194.png,502,187,541,223,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_194.png,[187. 502. 223. 541.],704,480,1
+db_lisa_tiny/sample_195.png,513,227,526,245,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_195.png,[227. 513. 245. 526.],704,480,1
+db_lisa_tiny/sample_196.png,405,243,431,265,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_196.png,[243. 405. 265. 431.],704,480,1
+db_lisa_tiny/sample_197.png,415,29,434,48,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_197.png,[ 29. 415.  48. 434.],704,480,1
+db_lisa_tiny/sample_198.png,373,185,400,211,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_198.png,[185. 373. 211. 400.],704,480,1
+db_lisa_tiny/sample_199.png,554,25,581,51,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_199.png,[ 25. 554.  51. 581.],704,480,1
+db_lisa_tiny/sample_200.png,565,97,669,189,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_200.png,[ 97. 565. 189. 669.],704,480,1
+db_lisa_tiny/sample_201.png,430,211,458,237,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_201.png,[211. 430. 237. 458.],704,480,1
+db_lisa_tiny/sample_202.png,437,241,477,280,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_202.png,[241. 437. 280. 477.],704,480,1
+db_lisa_tiny/sample_203.png,483,199,541,253,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_203.png,[199. 483. 253. 541.],704,480,1
+db_lisa_tiny/sample_204.png,654,71,675,91,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_204.png,[ 71. 654.  91. 675.],704,480,1
+db_lisa_tiny/sample_205.png,474,297,496,318,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_205.png,[297. 474. 318. 496.],704,480,1
+db_lisa_tiny/sample_206.png,505,264,536,293,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_206.png,[264. 505. 293. 536.],704,480,1
+db_lisa_tiny/sample_207.png,181,295,206,320,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_207.png,[295. 181. 320. 206.],704,480,1
+db_lisa_tiny/sample_208.png,479,164,510,193,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_208.png,[164. 479. 193. 510.],704,480,1
+db_lisa_tiny/sample_209.png,607,177,645,210,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_209.png,[177. 607. 210. 645.],704,480,1
+db_lisa_tiny/sample_210.png,155,294,173,312,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_210.png,[294. 155. 312. 173.],704,480,1
+db_lisa_tiny/sample_211.png,81,240,133,283,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_211.png,[240.  81. 283. 133.],704,480,2
+db_lisa_tiny/sample_212.png,28,233,84,281,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_212.png,[233.  28. 281.  84.],704,480,2
+db_lisa_tiny/sample_213.png,39,243,90,283,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_213.png,[243.  39. 283.  90.],704,480,2
+db_lisa_tiny/sample_214.png,423,278,442,295,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_214.png,[278. 423. 295. 442.],704,480,2
+db_lisa_tiny/sample_215.png,331,271,357,295,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_215.png,[271. 331. 295. 357.],704,480,2
+db_lisa_tiny/sample_216.png,581,188,616,215,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_216.png,[188. 581. 215. 616.],704,480,2
+db_lisa_tiny/sample_217.png,261,263,291,288,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_217.png,[263. 261. 288. 291.],704,480,2
+db_lisa_tiny/sample_218.png,464,267,482,283,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_218.png,[267. 464. 283. 482.],704,480,2
+db_lisa_tiny/sample_219.png,168,250,214,289,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_219.png,[250. 168. 289. 214.],704,480,2
+db_lisa_tiny/sample_220.png,205,258,238,288,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_220.png,[258. 205. 288. 238.],704,480,2
+db_lisa_tiny/sample_221.png,387,271,411,293,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_221.png,[271. 387. 293. 411.],704,480,2
+db_lisa_tiny/sample_222.png,233,259,266,285,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_222.png,[259. 233. 285. 266.],704,480,2
+db_lisa_tiny/sample_223.png,407,260,438,288,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_223.png,[260. 407. 288. 438.],704,480,2
+db_lisa_tiny/sample_224.png,476,271,494,287,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_224.png,[271. 476. 287. 494.],704,480,2
+db_lisa_tiny/sample_225.png,509,280,526,293,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_225.png,[280. 509. 293. 526.],704,480,2
+db_lisa_tiny/sample_226.png,129,257,170,290,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_226.png,[257. 129. 290. 170.],704,480,2
+db_lisa_tiny/sample_227.png,406,276,427,294,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_227.png,[276. 406. 294. 427.],704,480,2
+db_lisa_tiny/sample_228.png,311,268,338,292,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_228.png,[268. 311. 292. 338.],704,480,2
+db_lisa_tiny/sample_229.png,184,210,218,233,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_229.png,[210. 184. 233. 218.],704,480,2
+db_lisa_tiny/sample_230.png,651,38,683,65,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_230.png,[ 38. 651.  65. 683.],704,480,2
+db_lisa_tiny/sample_231.png,208,250,248,286,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_231.png,[250. 208. 286. 248.],704,480,2
+db_lisa_tiny/sample_232.png,452,266,471,283,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_232.png,[266. 452. 283. 471.],704,480,2
+db_lisa_tiny/sample_233.png,85,194,128,224,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_233.png,[194.  85. 224. 128.],704,480,2
+db_lisa_tiny/sample_234.png,368,272,394,296,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_234.png,[272. 368. 296. 394.],704,480,2
+db_lisa_tiny/sample_235.png,350,272,376,296,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_235.png,[272. 350. 296. 376.],704,480,2
+db_lisa_tiny/sample_236.png,562,205,591,228,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_236.png,[205. 562. 228. 591.],704,480,2
+db_lisa_tiny/sample_237.png,668,36,700,64,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_237.png,[ 36. 668.  64. 700.],704,480,2
+db_lisa_tiny/sample_238.png,243,249,283,285,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_238.png,[249. 243. 285. 283.],704,480,2
+db_lisa_tiny/sample_239.png,486,273,503,288,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_239.png,[273. 486. 288. 503.],704,480,2
+db_lisa_tiny/sample_240.png,14,178,62,215,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_240.png,[178.  14. 215.  62.],704,480,2
+db_lisa_tiny/sample_241.png,287,267,315,291,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_241.png,[267. 287. 291. 315.],704,480,2
+db_lisa_tiny/sample_242.png,309,258,344,289,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_242.png,[258. 309. 289. 344.],704,480,2
+db_lisa_tiny/sample_243.png,438,273,457,290,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_243.png,[273. 438. 290. 457.],704,480,2
+db_lisa_tiny/sample_244.png,660,42,692,69,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_244.png,[ 42. 660.  69. 692.],704,480,2
+db_lisa_tiny/sample_245.png,571,198,603,224,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_245.png,[198. 571. 224. 603.],704,480,2
+db_lisa_tiny/sample_246.png,395,262,426,290,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_246.png,[262. 395. 290. 426.],704,480,2
+db_lisa_tiny/sample_247.png,598,175,637,204,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_247.png,[175. 598. 204. 637.],704,480,2
+db_lisa_tiny/sample_248.png,276,253,314,287,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_248.png,[253. 276. 287. 314.],704,480,2
+db_lisa_tiny/sample_249.png,500,274,517,289,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_249.png,[274. 500. 289. 517.],704,480,2
+db_lisa_tiny/sample_250.png,86,252,131,287,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_250.png,[252.  86. 287. 131.],704,480,2
+db_lisa_tiny/sample_251.png,141,202,177,229,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_251.png,[202. 141. 229. 177.],704,480,2
+db_lisa_tiny/sample_252.png,507,277,524,290,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_252.png,[277. 507. 290. 524.],704,480,2
+db_lisa_tiny/sample_253.png,622,155,668,193,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_253.png,[155. 622. 193. 668.],704,480,2
+db_lisa_tiny/sample_254.png,494,275,511,290,yield,Train,704,480,lisa_resize/db_lisa_tiny/sample_254.png,[275. 494. 290. 511.],704,480,2
+db_lisa_tiny/sample_255.png,166,258,205,291,yield,Test,704,480,lisa_resize/db_lisa_tiny/sample_255.png,[258. 166. 291. 205.],704,480,2
+db_lisa_tiny/sample_256.png,593,208,675,286,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_256.png,[208. 593. 286. 675.],704,480,3
+db_lisa_tiny/sample_257.png,560,210,635,282,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_257.png,[210. 560. 282. 635.],704,480,3
+db_lisa_tiny/sample_258.png,525,258,576,303,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_258.png,[258. 525. 303. 576.],704,480,3
+db_lisa_tiny/sample_259.png,515,193,565,238,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_259.png,[193. 515. 238. 565.],704,480,3
+db_lisa_tiny/sample_260.png,455,298,489,328,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_260.png,[298. 455. 328. 489.],704,480,3
+db_lisa_tiny/sample_261.png,446,297,480,327,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_261.png,[297. 446. 327. 480.],704,480,3
+db_lisa_tiny/sample_262.png,487,272,529,310,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_262.png,[272. 487. 310. 529.],704,480,3
+db_lisa_tiny/sample_263.png,440,295,471,324,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_263.png,[295. 440. 324. 471.],704,480,3
+db_lisa_tiny/sample_264.png,561,230,626,290,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_264.png,[230. 561. 290. 626.],704,480,3
+db_lisa_tiny/sample_265.png,607,180,700,265,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_265.png,[180. 607. 265. 700.],704,480,3
+db_lisa_tiny/sample_266.png,466,272,502,309,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_266.png,[272. 466. 309. 502.],704,480,3
+db_lisa_tiny/sample_267.png,492,261,539,307,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_267.png,[261. 492. 307. 539.],704,480,3
+db_lisa_tiny/sample_268.png,499,251,553,302,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_268.png,[251. 499. 302. 553.],704,480,3
+db_lisa_tiny/sample_269.png,512,255,561,299,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_269.png,[255. 512. 299. 561.],704,480,3
+db_lisa_tiny/sample_270.png,463,280,497,315,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_270.png,[280. 463. 315. 497.],704,480,3
+db_lisa_tiny/sample_271.png,581,197,664,276,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_271.png,[197. 581. 276. 664.],704,480,3
+db_lisa_tiny/sample_272.png,456,287,489,320,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_272.png,[287. 456. 320. 489.],704,480,3
+db_lisa_tiny/sample_273.png,531,261,584,308,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_273.png,[261. 531. 308. 584.],704,480,3
+db_lisa_tiny/sample_274.png,477,282,514,315,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_274.png,[282. 477. 315. 514.],704,480,3
+db_lisa_tiny/sample_275.png,458,288,493,320,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_275.png,[288. 458. 320. 493.],704,480,3
+db_lisa_tiny/sample_276.png,450,288,482,318,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_276.png,[288. 450. 318. 482.],704,480,3
+db_lisa_tiny/sample_277.png,554,170,618,230,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_277.png,[170. 554. 230. 618.],704,480,3
+db_lisa_tiny/sample_278.png,465,291,500,323,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_278.png,[291. 465. 323. 500.],704,480,3
+db_lisa_tiny/sample_279.png,469,261,506,299,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_279.png,[261. 469. 299. 506.],704,480,3
+db_lisa_tiny/sample_280.png,440,319,466,344,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_280.png,[319. 440. 344. 466.],704,480,3
+db_lisa_tiny/sample_281.png,577,220,650,287,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_281.png,[220. 577. 287. 650.],704,480,3
+db_lisa_tiny/sample_282.png,574,158,640,223,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_282.png,[158. 574. 223. 640.],704,480,3
+db_lisa_tiny/sample_283.png,440,309,468,336,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_283.png,[309. 440. 336. 468.],704,480,3
+db_lisa_tiny/sample_284.png,473,259,512,298,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_284.png,[259. 473. 298. 512.],704,480,3
+db_lisa_tiny/sample_285.png,479,269,521,309,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_285.png,[269. 479. 309. 521.],704,480,3
+db_lisa_tiny/sample_286.png,537,254,593,304,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_286.png,[254. 537. 304. 593.],704,480,3
+db_lisa_tiny/sample_287.png,606,199,693,282,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_287.png,[199. 606. 282. 693.],704,480,3
+db_lisa_tiny/sample_288.png,495,254,540,295,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_288.png,[254. 495. 295. 540.],704,480,3
+db_lisa_tiny/sample_289.png,584,214,661,286,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_289.png,[214. 584. 286. 661.],704,480,3
+db_lisa_tiny/sample_290.png,503,260,550,301,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_290.png,[260. 503. 301. 550.],704,480,3
+db_lisa_tiny/sample_291.png,520,263,570,308,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_291.png,[263. 520. 308. 570.],704,480,3
+db_lisa_tiny/sample_292.png,571,223,643,289,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_292.png,[223. 571. 289. 643.],704,480,3
+db_lisa_tiny/sample_293.png,550,243,611,298,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_293.png,[243. 550. 298. 611.],704,480,3
+db_lisa_tiny/sample_294.png,483,277,522,312,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_294.png,[277. 483. 312. 522.],704,480,3
+db_lisa_tiny/sample_295.png,463,279,499,316,yieldAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_295.png,[279. 463. 316. 499.],704,480,3
+db_lisa_tiny/sample_296.png,597,143,678,218,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_296.png,[143. 597. 218. 678.],704,480,3
+db_lisa_tiny/sample_297.png,557,237,620,295,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_297.png,[237. 557. 295. 620.],704,480,3
+db_lisa_tiny/sample_298.png,538,178,597,231,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_298.png,[178. 538. 231. 597.],704,480,3
+db_lisa_tiny/sample_299.png,540,221,608,285,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_299.png,[221. 540. 285. 608.],704,480,3
+db_lisa_tiny/sample_300.png,543,251,599,301,yieldAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_300.png,[251. 543. 301. 599.],704,480,3
+db_lisa_tiny/sample_301.png,471,256,506,297,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_301.png,[256. 471. 297. 506.],704,480,4
+db_lisa_tiny/sample_302.png,578,258,608,288,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_302.png,[258. 578. 288. 608.],704,480,4
+db_lisa_tiny/sample_303.png,559,250,592,282,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_303.png,[250. 559. 282. 592.],704,480,4
+db_lisa_tiny/sample_304.png,544,245,600,298,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_304.png,[245. 544. 298. 600.],704,480,4
+db_lisa_tiny/sample_305.png,370,298,395,320,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_305.png,[298. 370. 320. 395.],704,480,4
+db_lisa_tiny/sample_306.png,488,227,556,291,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_306.png,[227. 488. 291. 556.],704,480,4
+db_lisa_tiny/sample_307.png,622,257,663,298,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_307.png,[257. 622. 298. 663.],704,480,4
+db_lisa_tiny/sample_308.png,419,248,460,296,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_308.png,[248. 419. 296. 460.],704,480,4
+db_lisa_tiny/sample_309.png,535,283,565,313,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_309.png,[283. 535. 313. 565.],704,480,4
+db_lisa_tiny/sample_310.png,233,190,274,237,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_310.png,[190. 233. 237. 274.],704,480,4
+db_lisa_tiny/sample_311.png,398,280,435,314,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_311.png,[280. 398. 314. 435.],704,480,4
+db_lisa_tiny/sample_312.png,522,287,550,315,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_312.png,[287. 522. 315. 550.],704,480,4
+db_lisa_tiny/sample_313.png,594,262,621,287,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_313.png,[262. 594. 287. 621.],704,480,4
+db_lisa_tiny/sample_314.png,388,288,420,316,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_314.png,[288. 388. 316. 420.],704,480,4
+db_lisa_tiny/sample_315.png,432,260,482,303,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_315.png,[260. 432. 303. 482.],704,480,4
+db_lisa_tiny/sample_316.png,382,291,413,318,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_316.png,[291. 382. 318. 413.],704,480,4
+db_lisa_tiny/sample_317.png,384,242,426,291,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_317.png,[242. 384. 291. 426.],704,480,4
+db_lisa_tiny/sample_318.png,515,256,566,302,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_318.png,[256. 515. 302. 566.],704,480,4
+db_lisa_tiny/sample_319.png,413,269,457,311,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_319.png,[269. 413. 311. 457.],704,480,4
+db_lisa_tiny/sample_320.png,4,164,94,270,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_320.png,[164.   4. 270.  94.],704,480,4
+db_lisa_tiny/sample_321.png,437,255,491,303,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_321.png,[255. 437. 303. 491.],704,480,4
+db_lisa_tiny/sample_322.png,570,242,598,274,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_322.png,[242. 570. 274. 598.],704,480,4
+db_lisa_tiny/sample_323.png,594,261,618,289,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_323.png,[261. 594. 289. 618.],704,480,4
+db_lisa_tiny/sample_324.png,377,291,405,317,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_324.png,[291. 377. 317. 405.],704,480,4
+db_lisa_tiny/sample_325.png,513,274,553,311,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_325.png,[274. 513. 311. 553.],704,480,4
+db_lisa_tiny/sample_326.png,473,234,537,294,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_326.png,[234. 473. 294. 537.],704,480,4
+db_lisa_tiny/sample_327.png,326,216,354,248,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_327.png,[216. 326. 248. 354.],704,480,4
+db_lisa_tiny/sample_328.png,395,282,431,315,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_328.png,[282. 395. 315. 431.],704,480,4
+db_lisa_tiny/sample_329.png,447,249,503,300,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_329.png,[249. 447. 300. 503.],704,480,4
+db_lisa_tiny/sample_330.png,525,206,606,281,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_330.png,[206. 525. 281. 606.],704,480,4
+db_lisa_tiny/sample_331.png,433,296,458,320,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_331.png,[296. 433. 320. 458.],704,480,4
+db_lisa_tiny/sample_332.png,425,263,471,304,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_332.png,[263. 425. 304. 471.],704,480,4
+db_lisa_tiny/sample_333.png,167,14,230,72,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_333.png,[ 14. 167.  72. 230.],704,480,4
+db_lisa_tiny/sample_334.png,542,254,574,291,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_334.png,[254. 542. 291. 574.],704,480,4
+db_lisa_tiny/sample_335.png,338,241,385,301,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_335.png,[241. 338. 301. 385.],704,480,4
+db_lisa_tiny/sample_336.png,404,276,444,313,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_336.png,[276. 404. 313. 444.],704,480,4
+db_lisa_tiny/sample_337.png,458,242,518,295,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_337.png,[242. 458. 295. 518.],704,480,4
+db_lisa_tiny/sample_338.png,440,292,466,318,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_338.png,[292. 440. 318. 466.],704,480,4
+db_lisa_tiny/sample_339.png,260,200,298,241,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_339.png,[200. 260. 241. 298.],704,480,4
+db_lisa_tiny/sample_340.png,577,246,605,278,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_340.png,[246. 577. 278. 605.],704,480,4
+db_lisa_tiny/sample_341.png,457,284,488,314,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_341.png,[284. 457. 314. 488.],704,480,4
+db_lisa_tiny/sample_342.png,371,295,397,319,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_342.png,[295. 371. 319. 397.],704,480,4
+db_lisa_tiny/sample_343.png,403,244,444,293,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_343.png,[244. 403. 293. 444.],704,480,4
+db_lisa_tiny/sample_344.png,307,210,337,244,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_344.png,[210. 307. 244. 337.],704,480,4
+db_lisa_tiny/sample_345.png,284,206,319,245,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_345.png,[206. 284. 245. 319.],704,480,4
+db_lisa_tiny/sample_346.png,553,286,595,326,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_346.png,[286. 553. 326. 595.],704,480,4
+db_lisa_tiny/sample_347.png,394,284,427,315,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_347.png,[284. 394. 315. 427.],704,480,4
+db_lisa_tiny/sample_348.png,567,255,600,287,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_348.png,[255. 567. 287. 600.],704,480,4
+db_lisa_tiny/sample_349.png,370,234,418,290,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_349.png,[234. 370. 290. 418.],704,480,4
+db_lisa_tiny/sample_350.png,548,193,637,275,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_350.png,[193. 548. 275. 637.],704,480,4
+db_lisa_tiny/sample_351.png,547,253,598,303,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_351.png,[253. 547. 303. 598.],704,480,4
+db_lisa_tiny/sample_352.png,421,237,466,288,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_352.png,[237. 421. 288. 466.],704,480,4
+db_lisa_tiny/sample_353.png,375,292,403,317,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_353.png,[292. 375. 317. 403.],704,480,4
+db_lisa_tiny/sample_354.png,418,267,463,307,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_354.png,[267. 418. 307. 463.],704,480,4
+db_lisa_tiny/sample_355.png,407,270,450,311,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_355.png,[270. 407. 311. 450.],704,480,4
+db_lisa_tiny/sample_356.png,513,261,547,296,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_356.png,[261. 513. 296. 547.],704,480,4
+db_lisa_tiny/sample_357.png,471,291,497,317,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_357.png,[291. 471. 317. 497.],704,480,4
+db_lisa_tiny/sample_358.png,573,280,617,324,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_358.png,[280. 573. 324. 617.],704,480,4
+db_lisa_tiny/sample_359.png,313,240,364,302,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_359.png,[240. 313. 302. 364.],704,480,4
+db_lisa_tiny/sample_360.png,40,175,126,275,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_360.png,[175.  40. 275. 126.],704,480,4
+db_lisa_tiny/sample_361.png,567,198,616,241,merge,Train,640,480,lisa_resize/db_lisa_tiny/sample_361.png,[198. 567. 241. 616.],704,480,4
+db_lisa_tiny/sample_362.png,618,271,671,322,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_362.png,[271. 618. 322. 671.],704,480,4
+db_lisa_tiny/sample_363.png,362,242,407,296,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_363.png,[242. 362. 296. 407.],704,480,4
+db_lisa_tiny/sample_364.png,467,279,500,313,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_364.png,[279. 467. 313. 500.],704,480,4
+db_lisa_tiny/sample_365.png,402,279,440,314,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_365.png,[279. 402. 314. 440.],704,480,4
+db_lisa_tiny/sample_366.png,512,291,538,317,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_366.png,[291. 512. 317. 538.],704,480,4
+db_lisa_tiny/sample_367.png,344,220,372,252,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_367.png,[220. 344. 252. 372.],704,480,4
+db_lisa_tiny/sample_368.png,594,261,618,289,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_368.png,[261. 594. 289. 618.],704,480,4
+db_lisa_tiny/sample_369.png,391,285,423,315,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_369.png,[285. 391. 315. 423.],704,480,4
+db_lisa_tiny/sample_370.png,483,254,518,295,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_370.png,[254. 483. 295. 518.],704,480,4
+db_lisa_tiny/sample_371.png,526,263,559,295,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_371.png,[263. 526. 295. 559.],704,480,4
+db_lisa_tiny/sample_372.png,56,181,142,276,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_372.png,[181.  56. 276. 142.],704,480,4
+db_lisa_tiny/sample_373.png,584,251,611,282,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_373.png,[251. 584. 282. 611.],704,480,4
+db_lisa_tiny/sample_374.png,468,292,492,315,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_374.png,[292. 468. 315. 492.],704,480,4
+db_lisa_tiny/sample_375.png,593,275,641,323,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_375.png,[275. 593. 323. 641.],704,480,4
+db_lisa_tiny/sample_376.png,549,279,584,312,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_376.png,[279. 549. 312. 584.],704,480,4
+db_lisa_tiny/sample_377.png,524,245,559,284,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_377.png,[245. 524. 284. 559.],704,480,4
+db_lisa_tiny/sample_378.png,565,240,594,272,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_378.png,[240. 565. 272. 594.],704,480,4
+db_lisa_tiny/sample_379.png,476,288,505,316,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_379.png,[288. 476. 316. 505.],704,480,4
+db_lisa_tiny/sample_380.png,482,283,513,314,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_380.png,[283. 482. 314. 513.],704,480,4
+db_lisa_tiny/sample_381.png,533,248,567,287,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_381.png,[248. 533. 287. 567.],704,480,4
+db_lisa_tiny/sample_382.png,512,219,546,248,merge,Train,640,480,lisa_resize/db_lisa_tiny/sample_382.png,[219. 512. 248. 546.],704,480,4
+db_lisa_tiny/sample_383.png,223,224,287,298,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_383.png,[224. 223. 298. 287.],704,480,4
+db_lisa_tiny/sample_384.png,146,207,221,290,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_384.png,[207. 146. 290. 221.],704,480,4
+db_lisa_tiny/sample_385.png,505,218,580,287,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_385.png,[218. 505. 287. 580.],704,480,4
+db_lisa_tiny/sample_386.png,341,235,395,294,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_386.png,[235. 341. 294. 395.],704,480,4
+db_lisa_tiny/sample_387.png,527,261,573,303,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_387.png,[261. 527. 303. 573.],704,480,4
+db_lisa_tiny/sample_388.png,380,290,409,316,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_388.png,[290. 380. 316. 409.],704,480,4
+db_lisa_tiny/sample_389.png,589,260,616,285,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_389.png,[260. 589. 285. 616.],704,480,4
+db_lisa_tiny/sample_390.png,614,180,675,233,merge,Train,640,480,lisa_resize/db_lisa_tiny/sample_390.png,[180. 614. 233. 675.],704,480,4
+db_lisa_tiny/sample_391.png,549,251,582,283,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_391.png,[251. 549. 283. 582.],704,480,4
+db_lisa_tiny/sample_392.png,297,230,352,293,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_392.png,[230. 297. 293. 352.],704,480,4
+db_lisa_tiny/sample_393.png,486,281,520,314,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_393.png,[281. 486. 314. 520.],704,480,4
+db_lisa_tiny/sample_394.png,593,268,631,305,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_394.png,[268. 593. 305. 631.],704,480,4
+db_lisa_tiny/sample_395.png,439,250,475,295,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_395.png,[250. 439. 295. 475.],704,480,4
+db_lisa_tiny/sample_396.png,550,252,580,286,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_396.png,[252. 550. 286. 580.],704,480,4
+db_lisa_tiny/sample_397.png,478,273,517,310,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_397.png,[273. 478. 310. 517.],704,480,4
+db_lisa_tiny/sample_398.png,199,180,245,232,merge,Test,704,480,lisa_resize/db_lisa_tiny/sample_398.png,[180. 199. 232. 245.],704,480,4
+db_lisa_tiny/sample_399.png,493,266,537,307,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_399.png,[266. 493. 307. 537.],704,480,4
+db_lisa_tiny/sample_400.png,286,237,340,301,merge,Train,704,480,lisa_resize/db_lisa_tiny/sample_400.png,[237. 286. 301. 340.],704,480,4
+db_lisa_tiny/sample_401.png,332,331,350,347,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_401.png,[331. 332. 347. 350.],704,480,5
+db_lisa_tiny/sample_402.png,463,292,492,317,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_402.png,[292. 463. 317. 492.],704,480,5
+db_lisa_tiny/sample_403.png,433,228,457,248,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_403.png,[228. 433. 248. 457.],704,480,5
+db_lisa_tiny/sample_404.png,278,241,297,256,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_404.png,[241. 278. 256. 297.],704,480,5
+db_lisa_tiny/sample_405.png,184,190,227,231,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_405.png,[190. 184. 231. 227.],704,480,5
+db_lisa_tiny/sample_406.png,548,58,588,92,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_406.png,[ 58. 548.  92. 588.],704,480,5
+db_lisa_tiny/sample_407.png,626,275,671,315,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_407.png,[275. 626. 315. 671.],704,480,5
+db_lisa_tiny/sample_408.png,145,180,191,224,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_408.png,[180. 145. 224. 191.],704,480,5
+db_lisa_tiny/sample_409.png,535,264,576,301,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_409.png,[264. 535. 301. 576.],704,480,5
+db_lisa_tiny/sample_410.png,486,184,559,252,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_410.png,[184. 486. 252. 559.],704,480,5
+db_lisa_tiny/sample_411.png,444,278,473,303,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_411.png,[278. 444. 303. 473.],704,480,5
+db_lisa_tiny/sample_412.png,64,305,100,338,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_412.png,[305.  64. 338. 100.],704,480,5
+db_lisa_tiny/sample_413.png,14,282,53,320,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_413.png,[282.  14. 320.  53.],704,480,5
+db_lisa_tiny/sample_414.png,450,267,497,309,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_414.png,[267. 450. 309. 497.],704,480,5
+db_lisa_tiny/sample_415.png,534,185,586,230,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_415.png,[185. 534. 230. 586.],704,480,5
+db_lisa_tiny/sample_416.png,410,291,435,313,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_416.png,[291. 410. 313. 435.],704,480,5
+db_lisa_tiny/sample_417.png,513,153,581,214,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_417.png,[153. 513. 214. 581.],704,480,5
+db_lisa_tiny/sample_418.png,244,215,277,243,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_418.png,[215. 244. 243. 277.],704,480,5
+db_lisa_tiny/sample_419.png,589,30,626,64,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_419.png,[ 30. 589.  64. 626.],704,480,5
+db_lisa_tiny/sample_420.png,605,277,645,316,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_420.png,[277. 605. 316. 645.],704,480,5
+db_lisa_tiny/sample_421.png,303,211,333,237,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_421.png,[211. 303. 237. 333.],704,480,5
+db_lisa_tiny/sample_422.png,387,241,444,295,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_422.png,[241. 387. 295. 444.],704,480,5
+db_lisa_tiny/sample_423.png,571,149,641,209,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_423.png,[149. 571. 209. 641.],704,480,5
+db_lisa_tiny/sample_424.png,466,202,556,289,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_424.png,[202. 466. 289. 556.],704,480,5
+db_lisa_tiny/sample_425.png,440,267,483,306,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_425.png,[267. 440. 306. 483.],704,480,5
+db_lisa_tiny/sample_426.png,49,143,118,212,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_426.png,[143.  49. 212. 118.],704,480,5
+db_lisa_tiny/sample_427.png,452,221,478,245,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_427.png,[221. 452. 245. 478.],704,480,5
+db_lisa_tiny/sample_428.png,542,215,572,242,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_428.png,[215. 542. 242. 572.],704,480,5
+db_lisa_tiny/sample_429.png,321,309,343,329,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_429.png,[309. 321. 329. 343.],704,480,5
+db_lisa_tiny/sample_430.png,462,305,484,326,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_430.png,[305. 462. 326. 484.],704,480,5
+db_lisa_tiny/sample_431.png,591,41,622,69,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_431.png,[ 41. 591.  69. 622.],704,480,5
+db_lisa_tiny/sample_432.png,498,224,524,249,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_432.png,[224. 498. 249. 524.],704,480,5
+db_lisa_tiny/sample_433.png,70,241,125,291,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_433.png,[241.  70. 291. 125.],704,480,5
+db_lisa_tiny/sample_434.png,549,110,648,206,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_434.png,[110. 549. 206. 648.],704,480,5
+db_lisa_tiny/sample_435.png,249,199,282,229,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_435.png,[199. 249. 229. 282.],704,480,5
+db_lisa_tiny/sample_436.png,544,219,618,291,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_436.png,[219. 544. 291. 618.],704,480,5
+db_lisa_tiny/sample_437.png,453,222,480,245,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_437.png,[222. 453. 245. 480.],704,480,5
+db_lisa_tiny/sample_438.png,247,236,268,255,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_438.png,[236. 247. 255. 268.],704,480,5
+db_lisa_tiny/sample_439.png,456,272,489,300,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_439.png,[272. 456. 300. 489.],704,480,5
+db_lisa_tiny/sample_440.png,453,308,474,328,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_440.png,[308. 453. 328. 474.],704,480,5
+db_lisa_tiny/sample_441.png,449,230,471,250,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_441.png,[230. 449. 250. 471.],704,480,5
+db_lisa_tiny/sample_442.png,539,45,568,72,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_442.png,[ 45. 539.  72. 568.],704,480,5
+db_lisa_tiny/sample_443.png,485,222,544,281,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_443.png,[222. 485. 281. 544.],704,480,5
+db_lisa_tiny/sample_444.png,104,191,152,234,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_444.png,[191. 104. 234. 152.],704,480,5
+db_lisa_tiny/sample_445.png,265,222,292,248,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_445.png,[222. 265. 248. 292.],704,480,5
+db_lisa_tiny/sample_446.png,127,315,156,343,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_446.png,[315. 127. 343. 156.],704,480,5
+db_lisa_tiny/sample_447.png,521,193,620,289,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_447.png,[193. 521. 289. 620.],704,480,5
+db_lisa_tiny/sample_448.png,544,245,606,301,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_448.png,[245. 544. 301. 606.],704,480,5
+db_lisa_tiny/sample_449.png,577,239,625,279,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_449.png,[239. 577. 279. 625.],704,480,5
+db_lisa_tiny/sample_450.png,619,48,669,95,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_450.png,[ 48. 619.  95. 669.],704,480,5
+db_lisa_tiny/sample_451.png,342,328,360,344,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_451.png,[328. 342. 344. 360.],704,480,5
+db_lisa_tiny/sample_452.png,358,259,413,310,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_452.png,[259. 358. 310. 413.],704,480,5
+db_lisa_tiny/sample_453.png,452,245,497,287,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_453.png,[245. 452. 287. 497.],704,480,5
+db_lisa_tiny/sample_454.png,551,289,585,320,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_454.png,[289. 551. 320. 585.],704,480,5
+db_lisa_tiny/sample_455.png,443,233,465,252,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_455.png,[233. 443. 252. 465.],704,480,5
+db_lisa_tiny/sample_456.png,431,244,447,256,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_456.png,[244. 431. 256. 447.],704,480,5
+db_lisa_tiny/sample_457.png,587,158,658,234,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_457.png,[158. 587. 234. 658.],704,480,5
+db_lisa_tiny/sample_458.png,493,266,531,297,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_458.png,[266. 493. 297. 531.],704,480,5
+db_lisa_tiny/sample_459.png,485,197,530,237,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_459.png,[197. 485. 237. 530.],704,480,5
+db_lisa_tiny/sample_460.png,514,179,563,222,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_460.png,[179. 514. 222. 563.],704,480,5
+db_lisa_tiny/sample_461.png,227,202,254,228,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_461.png,[202. 227. 228. 254.],704,480,5
+db_lisa_tiny/sample_462.png,201,230,229,255,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_462.png,[230. 201. 255. 229.],704,480,5
+db_lisa_tiny/sample_463.png,458,214,489,241,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_463.png,[214. 458. 241. 489.],704,480,5
+db_lisa_tiny/sample_464.png,522,293,552,321,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_464.png,[293. 522. 321. 552.],704,480,5
+db_lisa_tiny/sample_465.png,41,294,79,331,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_465.png,[294.  41. 331.  79.],704,480,5
+db_lisa_tiny/sample_466.png,232,207,257,230,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_466.png,[207. 232. 230. 257.],704,480,5
+db_lisa_tiny/sample_467.png,576,202,664,284,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_467.png,[202. 576. 284. 664.],704,480,5
+db_lisa_tiny/sample_468.png,228,232,254,255,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_468.png,[232. 228. 255. 254.],704,480,5
+db_lisa_tiny/sample_469.png,228,25,269,62,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_469.png,[ 25. 228.  62. 269.],704,480,5
+db_lisa_tiny/sample_470.png,581,254,631,299,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_470.png,[254. 581. 299. 631.],704,480,5
+db_lisa_tiny/sample_471.png,435,269,472,304,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_471.png,[269. 435. 304. 472.],704,480,5
+db_lisa_tiny/sample_472.png,482,232,503,250,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_472.png,[232. 482. 250. 503.],704,480,5
+db_lisa_tiny/sample_473.png,105,165,163,220,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_473.png,[165. 105. 220. 163.],704,480,5
+db_lisa_tiny/sample_474.png,439,221,468,246,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_474.png,[221. 439. 246. 468.],704,480,5
+db_lisa_tiny/sample_475.png,605,21,645,60,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_475.png,[ 21. 605.  60. 645.],704,480,5
+db_lisa_tiny/sample_476.png,510,155,594,234,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_476.png,[155. 510. 234. 594.],704,480,5
+db_lisa_tiny/sample_477.png,365,304,392,330,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_477.png,[304. 365. 330. 392.],704,480,5
+db_lisa_tiny/sample_478.png,109,265,150,303,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_478.png,[265. 109. 303. 150.],704,480,5
+db_lisa_tiny/sample_479.png,82,208,123,245,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_479.png,[208.  82. 245. 123.],704,480,5
+db_lisa_tiny/sample_480.png,367,224,391,245,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_480.png,[224. 367. 245. 391.],704,480,5
+db_lisa_tiny/sample_481.png,602,161,676,230,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_481.png,[161. 602. 230. 676.],704,480,5
+db_lisa_tiny/sample_482.png,439,230,463,249,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_482.png,[230. 439. 249. 463.],704,480,5
+db_lisa_tiny/sample_483.png,537,291,568,320,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_483.png,[291. 537. 320. 568.],704,480,5
+db_lisa_tiny/sample_484.png,474,254,531,307,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_484.png,[254. 474. 307. 531.],704,480,5
+db_lisa_tiny/sample_485.png,556,47,582,72,signalAhead,Test,704,480,lisa_resize/db_lisa_tiny/sample_485.png,[ 47. 556.  72. 582.],704,480,5
+db_lisa_tiny/sample_486.png,446,249,489,290,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_486.png,[249. 446. 290. 489.],704,480,5
+db_lisa_tiny/sample_487.png,439,236,457,251,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_487.png,[236. 439. 251. 457.],704,480,5
+db_lisa_tiny/sample_488.png,443,234,463,251,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_488.png,[234. 443. 251. 463.],704,480,5
+db_lisa_tiny/sample_489.png,439,235,459,251,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_489.png,[235. 439. 251. 459.],704,480,5
+db_lisa_tiny/sample_490.png,436,240,454,255,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_490.png,[240. 436. 255. 454.],704,480,5
+db_lisa_tiny/sample_491.png,515,266,555,302,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_491.png,[266. 515. 302. 555.],704,480,5
+db_lisa_tiny/sample_492.png,314,313,333,331,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_492.png,[313. 314. 331. 333.],704,480,5
+db_lisa_tiny/sample_493.png,128,172,180,222,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_493.png,[172. 128. 222. 180.],704,480,5
+db_lisa_tiny/sample_494.png,450,223,476,244,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_494.png,[223. 450. 244. 476.],704,480,5
+db_lisa_tiny/sample_495.png,458,238,478,254,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_495.png,[238. 458. 254. 478.],704,480,5
+db_lisa_tiny/sample_496.png,199,232,225,255,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_496.png,[232. 199. 255. 225.],704,480,5
+db_lisa_tiny/sample_497.png,520,167,584,221,signalAhead,Test,640,480,lisa_resize/db_lisa_tiny/sample_497.png,[167. 520. 221. 584.],704,480,5
+db_lisa_tiny/sample_498.png,426,207,468,243,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_498.png,[207. 426. 243. 468.],704,480,5
+db_lisa_tiny/sample_499.png,404,211,443,245,signalAhead,Train,640,480,lisa_resize/db_lisa_tiny/sample_499.png,[211. 404. 245. 443.],704,480,5
+db_lisa_tiny/sample_500.png,378,335,394,349,signalAhead,Train,704,480,lisa_resize/db_lisa_tiny/sample_500.png,[335. 378. 349. 394.],704,480,5
+db_lisa_tiny/sample_501.png,516,183,541,212,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_501.png,[183. 516. 212. 541.],704,480,6
+db_lisa_tiny/sample_502.png,447,222,470,243,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_502.png,[222. 447. 243. 470.],704,480,6
+db_lisa_tiny/sample_503.png,460,181,508,220,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_503.png,[181. 460. 220. 508.],704,480,6
+db_lisa_tiny/sample_504.png,98,180,129,209,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_504.png,[180.  98. 209. 129.],704,480,6
+db_lisa_tiny/sample_505.png,462,272,491,299,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_505.png,[272. 462. 299. 491.],704,480,6
+db_lisa_tiny/sample_506.png,453,231,469,246,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_506.png,[231. 453. 246. 469.],704,480,6
+db_lisa_tiny/sample_507.png,471,265,501,293,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_507.png,[265. 471. 293. 501.],704,480,6
+db_lisa_tiny/sample_508.png,434,191,474,230,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_508.png,[191. 434. 230. 474.],704,480,6
+db_lisa_tiny/sample_509.png,550,182,643,274,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_509.png,[182. 550. 274. 643.],704,480,6
+db_lisa_tiny/sample_510.png,310,217,342,244,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_510.png,[217. 310. 244. 342.],704,480,6
+db_lisa_tiny/sample_511.png,323,217,355,245,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_511.png,[217. 323. 245. 355.],704,480,6
+db_lisa_tiny/sample_512.png,463,227,489,250,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_512.png,[227. 463. 250. 489.],704,480,6
+db_lisa_tiny/sample_513.png,557,167,585,202,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_513.png,[167. 557. 202. 585.],704,480,6
+db_lisa_tiny/sample_514.png,504,223,533,248,pedestrianCrossing,Test,640,480,lisa_resize/db_lisa_tiny/sample_514.png,[223. 504. 248. 533.],704,480,6
+db_lisa_tiny/sample_515.png,207,213,232,235,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_515.png,[213. 207. 235. 232.],704,480,6
+db_lisa_tiny/sample_516.png,485,198,510,229,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_516.png,[198. 485. 229. 510.],704,480,6
+db_lisa_tiny/sample_517.png,551,198,588,232,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_517.png,[198. 551. 232. 588.],704,480,6
+db_lisa_tiny/sample_518.png,466,267,495,295,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_518.png,[267. 466. 295. 495.],704,480,6
+db_lisa_tiny/sample_519.png,445,220,498,272,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_519.png,[220. 445. 272. 498.],704,480,6
+db_lisa_tiny/sample_520.png,41,174,78,208,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_520.png,[174.  41. 208.  78.],704,480,6
+db_lisa_tiny/sample_521.png,485,221,511,246,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_521.png,[221. 485. 246. 511.],704,480,6
+db_lisa_tiny/sample_522.png,494,196,518,226,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_522.png,[196. 494. 226. 518.],704,480,6
+db_lisa_tiny/sample_523.png,477,264,507,292,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_523.png,[264. 477. 292. 507.],704,480,6
+db_lisa_tiny/sample_524.png,525,203,563,238,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_524.png,[203. 525. 238. 563.],704,480,6
+db_lisa_tiny/sample_525.png,481,168,520,204,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_525.png,[168. 481. 204. 520.],704,480,6
+db_lisa_tiny/sample_526.png,558,77,640,150,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_526.png,[ 77. 558. 150. 640.],704,480,6
+db_lisa_tiny/sample_527.png,562,271,611,318,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_527.png,[271. 562. 318. 611.],704,480,6
+db_lisa_tiny/sample_528.png,476,302,512,337,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_528.png,[302. 476. 337. 512.],704,480,6
+db_lisa_tiny/sample_529.png,9,167,47,204,pedestrianCrossing,Test,640,480,lisa_resize/db_lisa_tiny/sample_529.png,[167.   9. 204.  47.],704,480,6
+db_lisa_tiny/sample_530.png,459,176,503,218,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_530.png,[176. 459. 218. 503.],704,480,6
+db_lisa_tiny/sample_531.png,655,158,689,215,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_531.png,[158. 655. 215. 689.],704,480,6
+db_lisa_tiny/sample_532.png,534,7,573,44,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_532.png,[  7. 534.  44. 573.],704,480,6
+db_lisa_tiny/sample_533.png,622,31,667,68,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_533.png,[ 31. 622.  68. 667.],704,480,6
+db_lisa_tiny/sample_534.png,513,147,579,204,pedestrianCrossing,Test,640,480,lisa_resize/db_lisa_tiny/sample_534.png,[147. 513. 204. 579.],704,480,6
+db_lisa_tiny/sample_535.png,569,206,611,242,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_535.png,[206. 569. 242. 611.],704,480,6
+db_lisa_tiny/sample_536.png,565,258,590,293,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_536.png,[258. 565. 293. 590.],704,480,6
+db_lisa_tiny/sample_537.png,617,255,647,298,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_537.png,[255. 617. 298. 647.],704,480,6
+db_lisa_tiny/sample_538.png,486,238,501,250,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_538.png,[238. 486. 250. 501.],704,480,6
+db_lisa_tiny/sample_539.png,499,192,524,222,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_539.png,[192. 499. 222. 524.],704,480,6
+db_lisa_tiny/sample_540.png,530,216,562,244,pedestrianCrossing,Test,640,480,lisa_resize/db_lisa_tiny/sample_540.png,[216. 530. 244. 562.],704,480,6
+db_lisa_tiny/sample_541.png,603,197,653,239,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_541.png,[197. 603. 239. 653.],704,480,6
+db_lisa_tiny/sample_542.png,611,255,649,306,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_542.png,[255. 611. 306. 649.],704,480,6
+db_lisa_tiny/sample_543.png,643,256,675,312,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_543.png,[256. 643. 312. 675.],704,480,6
+db_lisa_tiny/sample_544.png,448,229,466,245,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_544.png,[229. 448. 245. 466.],704,480,6
+db_lisa_tiny/sample_545.png,421,230,438,246,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_545.png,[230. 421. 246. 438.],704,480,6
+db_lisa_tiny/sample_546.png,513,97,583,160,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_546.png,[ 97. 513. 160. 583.],704,480,6
+db_lisa_tiny/sample_547.png,633,251,694,307,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_547.png,[251. 633. 307. 694.],704,480,6
+db_lisa_tiny/sample_548.png,537,168,565,204,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_548.png,[168. 537. 204. 565.],704,480,6
+db_lisa_tiny/sample_549.png,458,214,518,273,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_549.png,[214. 458. 273. 518.],704,480,6
+db_lisa_tiny/sample_550.png,588,260,623,309,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_550.png,[260. 588. 309. 623.],704,480,6
+db_lisa_tiny/sample_551.png,604,137,670,204,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_551.png,[137. 604. 204. 670.],704,480,6
+db_lisa_tiny/sample_552.png,472,161,514,198,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_552.png,[161. 472. 198. 514.],704,480,6
+db_lisa_tiny/sample_553.png,558,133,625,197,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_553.png,[133. 558. 197. 625.],704,480,6
+db_lisa_tiny/sample_554.png,480,201,503,231,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_554.png,[201. 480. 231. 503.],704,480,6
+db_lisa_tiny/sample_555.png,586,192,631,231,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_555.png,[192. 586. 231. 631.],704,480,6
+db_lisa_tiny/sample_556.png,433,15,474,50,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_556.png,[ 15. 433.  50. 474.],704,480,6
+db_lisa_tiny/sample_557.png,508,185,533,214,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_557.png,[185. 508. 214. 533.],704,480,6
+db_lisa_tiny/sample_558.png,479,217,514,248,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_558.png,[217. 479. 248. 514.],704,480,6
+db_lisa_tiny/sample_559.png,642,252,680,303,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_559.png,[252. 642. 303. 680.],704,480,6
+db_lisa_tiny/sample_560.png,545,236,590,278,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_560.png,[236. 545. 278. 590.],704,480,6
+db_lisa_tiny/sample_561.png,355,217,388,247,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_561.png,[217. 355. 247. 388.],704,480,6
+db_lisa_tiny/sample_562.png,606,262,636,305,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_562.png,[262. 606. 305. 636.],704,480,6
+db_lisa_tiny/sample_563.png,455,0,502,41,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_563.png,[  0. 455.  41. 502.],704,480,6
+db_lisa_tiny/sample_564.png,563,206,600,239,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_564.png,[206. 563. 239. 600.],704,480,6
+db_lisa_tiny/sample_565.png,490,119,553,175,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_565.png,[119. 490. 175. 553.],704,480,6
+db_lisa_tiny/sample_566.png,299,216,321,237,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_566.png,[216. 299. 237. 321.],704,480,6
+db_lisa_tiny/sample_567.png,503,158,559,211,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_567.png,[158. 503. 211. 559.],704,480,6
+db_lisa_tiny/sample_568.png,528,170,558,210,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_568.png,[170. 528. 210. 558.],704,480,6
+db_lisa_tiny/sample_569.png,463,208,483,237,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_569.png,[208. 463. 237. 483.],704,480,6
+db_lisa_tiny/sample_570.png,571,262,598,298,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_570.png,[262. 571. 298. 598.],704,480,6
+db_lisa_tiny/sample_571.png,439,279,464,302,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_571.png,[279. 439. 302. 464.],704,480,6
+db_lisa_tiny/sample_572.png,97,179,129,209,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_572.png,[179.  97. 209. 129.],704,480,6
+db_lisa_tiny/sample_573.png,568,146,632,207,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_573.png,[146. 568. 207. 632.],704,480,6
+db_lisa_tiny/sample_574.png,541,212,574,242,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_574.png,[212. 541. 242. 574.],704,480,6
+db_lisa_tiny/sample_575.png,550,273,578,305,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_575.png,[273. 550. 305. 578.],704,480,6
+db_lisa_tiny/sample_576.png,497,213,529,243,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_576.png,[213. 497. 243. 529.],704,480,6
+db_lisa_tiny/sample_577.png,434,283,459,305,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_577.png,[283. 434. 305. 459.],704,480,6
+db_lisa_tiny/sample_578.png,424,228,443,245,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_578.png,[228. 424. 245. 443.],704,480,6
+db_lisa_tiny/sample_579.png,544,156,601,212,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_579.png,[156. 544. 212. 601.],704,480,6
+db_lisa_tiny/sample_580.png,568,187,622,234,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_580.png,[187. 568. 234. 622.],704,480,6
+db_lisa_tiny/sample_581.png,400,217,430,246,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_581.png,[217. 400. 246. 430.],704,480,6
+db_lisa_tiny/sample_582.png,567,228,616,274,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_582.png,[228. 567. 274. 616.],704,480,6
+db_lisa_tiny/sample_583.png,608,211,664,263,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_583.png,[211. 608. 263. 664.],704,480,6
+db_lisa_tiny/sample_584.png,543,213,579,244,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_584.png,[213. 543. 244. 579.],704,480,6
+db_lisa_tiny/sample_585.png,593,218,647,268,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_585.png,[218. 593. 268. 647.],704,480,6
+db_lisa_tiny/sample_586.png,557,264,583,298,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_586.png,[264. 557. 298. 583.],704,480,6
+db_lisa_tiny/sample_587.png,583,171,615,211,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_587.png,[171. 583. 211. 615.],704,480,6
+db_lisa_tiny/sample_588.png,442,214,466,235,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_588.png,[214. 442. 235. 466.],704,480,6
+db_lisa_tiny/sample_589.png,606,185,654,227,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_589.png,[185. 606. 227. 654.],704,480,6
+db_lisa_tiny/sample_590.png,559,261,587,296,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_590.png,[261. 559. 296. 587.],704,480,6
+db_lisa_tiny/sample_591.png,599,170,631,210,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_591.png,[170. 599. 210. 631.],704,480,6
+db_lisa_tiny/sample_592.png,432,231,452,249,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_592.png,[231. 432. 249. 452.],704,480,6
+db_lisa_tiny/sample_593.png,490,163,542,214,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_593.png,[163. 490. 214. 542.],704,480,6
+db_lisa_tiny/sample_594.png,428,228,449,247,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_594.png,[228. 428. 247. 449.],704,480,6
+db_lisa_tiny/sample_595.png,428,31,464,62,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_595.png,[ 31. 428.  62. 464.],704,480,6
+db_lisa_tiny/sample_596.png,455,276,481,301,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_596.png,[276. 455. 301. 481.],704,480,6
+db_lisa_tiny/sample_597.png,483,262,514,292,pedestrianCrossing,Test,704,480,lisa_resize/db_lisa_tiny/sample_597.png,[262. 483. 292. 514.],704,480,6
+db_lisa_tiny/sample_598.png,449,275,476,300,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_598.png,[275. 449. 300. 476.],704,480,6
+db_lisa_tiny/sample_599.png,333,217,366,247,pedestrianCrossing,Train,704,480,lisa_resize/db_lisa_tiny/sample_599.png,[217. 333. 247. 366.],704,480,6
+db_lisa_tiny/sample_600.png,497,175,525,201,pedestrianCrossing,Train,640,480,lisa_resize/db_lisa_tiny/sample_600.png,[175. 497. 201. 525.],704,480,6
+db_lisa_tiny/sample_601.png,133,235,160,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_601.png,[235. 133. 266. 160.],704,480,7
+db_lisa_tiny/sample_602.png,61,237,100,279,keepRight,Test,640,480,lisa_resize/db_lisa_tiny/sample_602.png,[237.  61. 279. 100.],704,480,7
+db_lisa_tiny/sample_603.png,153,263,179,287,keepRight,Test,640,480,lisa_resize/db_lisa_tiny/sample_603.png,[263. 153. 287. 179.],704,480,7
+db_lisa_tiny/sample_604.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_604.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_605.png,39,263,83,316,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_605.png,[263.  39. 316.  83.],704,480,7
+db_lisa_tiny/sample_606.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_606.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_607.png,181,321,208,353,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_607.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_608.png,202,45,224,71,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_608.png,[ 45. 202.  71. 224.],704,480,7
+db_lisa_tiny/sample_609.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_609.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_610.png,142,243,170,274,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_610.png,[243. 142. 274. 170.],704,480,7
+db_lisa_tiny/sample_611.png,70,332,89,353,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_611.png,[332.  70. 353.  89.],704,480,7
+db_lisa_tiny/sample_612.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_612.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_613.png,187,306,212,335,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_613.png,[306. 187. 335. 212.],704,480,7
+db_lisa_tiny/sample_614.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_614.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_615.png,149,337,178,373,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_615.png,[337. 149. 373. 178.],704,480,7
+db_lisa_tiny/sample_616.png,171,322,198,354,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_616.png,[322. 171. 354. 198.],704,480,7
+db_lisa_tiny/sample_617.png,100,280,125,307,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_617.png,[280. 100. 307. 125.],704,480,7
+db_lisa_tiny/sample_618.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_618.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_619.png,15,259,56,299,keepRight,Test,640,480,lisa_resize/db_lisa_tiny/sample_619.png,[259.  15. 299.  56.],704,480,7
+db_lisa_tiny/sample_620.png,70,258,110,306,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_620.png,[258.  70. 306. 110.],704,480,7
+db_lisa_tiny/sample_621.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_621.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_622.png,170,327,197,359,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_622.png,[327. 170. 359. 197.],704,480,7
+db_lisa_tiny/sample_623.png,60,218,101,267,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_623.png,[218.  60. 267. 101.],704,480,7
+db_lisa_tiny/sample_624.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_624.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_625.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_625.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_626.png,86,258,120,299,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_626.png,[258.  86. 299. 120.],704,480,7
+db_lisa_tiny/sample_627.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_627.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_628.png,315,246,329,263,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_628.png,[246. 315. 263. 329.],704,480,7
+db_lisa_tiny/sample_629.png,126,20,167,67,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_629.png,[ 20. 126.  67. 167.],704,480,7
+db_lisa_tiny/sample_630.png,181,321,208,353,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_630.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_631.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_631.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_632.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_632.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_633.png,222,45,243,70,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_633.png,[ 45. 222.  70. 243.],704,480,7
+db_lisa_tiny/sample_634.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_634.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_635.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_635.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_636.png,181,321,208,353,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_636.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_637.png,181,321,208,353,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_637.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_638.png,24,325,48,354,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_638.png,[325.  24. 354.  48.],704,480,7
+db_lisa_tiny/sample_639.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_639.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_640.png,115,229,146,267,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_640.png,[229. 115. 267. 146.],704,480,7
+db_lisa_tiny/sample_641.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_641.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_642.png,315,238,339,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_642.png,[238. 315. 266. 339.],704,480,7
+db_lisa_tiny/sample_643.png,173,265,195,287,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_643.png,[265. 173. 287. 195.],704,480,7
+db_lisa_tiny/sample_644.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_644.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_645.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_645.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_646.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_646.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_647.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_647.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_648.png,59,58,94,101,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_648.png,[ 58.  59. 101.  94.],704,480,7
+db_lisa_tiny/sample_649.png,140,256,166,287,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_649.png,[256. 140. 287. 166.],704,480,7
+db_lisa_tiny/sample_650.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_650.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_651.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_651.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_652.png,250,253,269,272,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_652.png,[253. 250. 272. 269.],704,480,7
+db_lisa_tiny/sample_653.png,137,285,159,307,keepRight,Test,640,480,lisa_resize/db_lisa_tiny/sample_653.png,[285. 137. 307. 159.],704,480,7
+db_lisa_tiny/sample_654.png,164,232,188,261,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_654.png,[232. 164. 261. 188.],704,480,7
+db_lisa_tiny/sample_655.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_655.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_656.png,316,238,340,266,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_656.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_657.png,109,259,139,296,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_657.png,[259. 109. 296. 139.],704,480,7
+db_lisa_tiny/sample_658.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_658.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_659.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_659.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_660.png,94,255,129,296,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_660.png,[255.  94. 296. 129.],704,480,7
+db_lisa_tiny/sample_661.png,61,261,98,307,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_661.png,[261.  61. 307.  98.],704,480,7
+db_lisa_tiny/sample_662.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_662.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_663.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_663.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_664.png,58,331,79,356,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_664.png,[331.  58. 356.  79.],704,480,7
+db_lisa_tiny/sample_665.png,181,321,208,353,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_665.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_666.png,39,344,62,372,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_666.png,[344.  39. 372.  62.],704,480,7
+db_lisa_tiny/sample_667.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_667.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_668.png,162,283,182,303,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_668.png,[283. 162. 303. 182.],704,480,7
+db_lisa_tiny/sample_669.png,312,229,334,256,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_669.png,[229. 312. 256. 334.],704,480,7
+db_lisa_tiny/sample_670.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_670.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_671.png,64,259,100,294,keepRight,Train,640,480,lisa_resize/db_lisa_tiny/sample_671.png,[259.  64. 294. 100.],704,480,7
+db_lisa_tiny/sample_672.png,320,255,345,284,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_672.png,[255. 320. 284. 345.],704,480,7
+db_lisa_tiny/sample_673.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_673.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_674.png,123,233,151,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_674.png,[233. 123. 266. 151.],704,480,7
+db_lisa_tiny/sample_675.png,0,264,50,326,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_675.png,[264.   0. 326.  50.],704,480,7
+db_lisa_tiny/sample_676.png,182,305,207,335,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_676.png,[305. 182. 335. 207.],704,480,7
+db_lisa_tiny/sample_677.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_677.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_678.png,181,317,207,348,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_678.png,[317. 181. 348. 207.],704,480,7
+db_lisa_tiny/sample_679.png,48,169,73,202,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_679.png,[169.  48. 202.  73.],704,480,7
+db_lisa_tiny/sample_680.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_680.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_681.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_681.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_682.png,229,46,249,68,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_682.png,[ 46. 229.  68. 249.],704,480,7
+db_lisa_tiny/sample_683.png,81,335,98,355,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_683.png,[335.  81. 355.  98.],704,480,7
+db_lisa_tiny/sample_684.png,103,65,134,100,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_684.png,[ 65. 103. 100. 134.],704,480,7
+db_lisa_tiny/sample_685.png,194,307,219,335,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_685.png,[307. 194. 335. 219.],704,480,7
+db_lisa_tiny/sample_686.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_686.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_687.png,181,321,208,353,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_687.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_688.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_688.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_689.png,181,321,208,353,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_689.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_690.png,181,321,208,353,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_690.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_691.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_691.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_692.png,171,320,198,352,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_692.png,[320. 171. 352. 198.],704,480,7
+db_lisa_tiny/sample_693.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_693.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_694.png,316,238,340,266,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_694.png,[238. 316. 266. 340.],704,480,7
+db_lisa_tiny/sample_695.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_695.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_696.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_696.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_697.png,69,182,93,210,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_697.png,[182.  69. 210.  93.],704,480,7
+db_lisa_tiny/sample_698.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_698.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_699.png,181,321,208,353,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_699.png,[321. 181. 353. 208.],704,480,7
+db_lisa_tiny/sample_700.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_700.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_701.png,229,45,249,67,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_701.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_702.png,43,331,65,358,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_702.png,[331.  43. 358.  65.],704,480,7
+db_lisa_tiny/sample_703.png,229,45,249,67,keepRight,Test,704,480,lisa_resize/db_lisa_tiny/sample_703.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_704.png,229,45,249,67,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_704.png,[ 45. 229.  67. 249.],704,480,7
+db_lisa_tiny/sample_705.png,95,230,126,265,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_705.png,[230.  95. 265. 126.],704,480,7
+db_lisa_tiny/sample_706.png,126,255,154,289,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_706.png,[255. 126. 289. 154.],704,480,7
+db_lisa_tiny/sample_707.png,111,230,140,264,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_707.png,[230. 111. 264. 140.],704,480,7
+db_lisa_tiny/sample_708.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_708.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_709.png,67,338,87,363,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_709.png,[338.  67. 363.  87.],704,480,7
+db_lisa_tiny/sample_710.png,271,331,288,350,keepRight,Train,704,480,lisa_resize/db_lisa_tiny/sample_710.png,[331. 271. 350. 288.],704,480,7
+db_lisa_tiny/sample_711.png,113,216,135,239,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_711.png,[216. 113. 239. 135.],704,480,8
+db_lisa_tiny/sample_712.png,458,236,473,251,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_712.png,[236. 458. 251. 473.],704,480,8
+db_lisa_tiny/sample_713.png,516,229,532,246,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_713.png,[229. 516. 246. 532.],704,480,8
+db_lisa_tiny/sample_714.png,633,85,692,147,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_714.png,[ 85. 633. 147. 692.],704,480,8
+db_lisa_tiny/sample_715.png,73,206,99,234,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_715.png,[206.  73. 234.  99.],704,480,8
+db_lisa_tiny/sample_716.png,105,224,125,245,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_716.png,[224. 105. 245. 125.],704,480,8
+db_lisa_tiny/sample_717.png,496,191,521,219,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_717.png,[191. 496. 219. 521.],704,480,8
+db_lisa_tiny/sample_718.png,649,212,694,265,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_718.png,[212. 649. 265. 694.],704,480,8
+db_lisa_tiny/sample_719.png,630,204,651,227,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_719.png,[204. 630. 227. 651.],704,480,8
+db_lisa_tiny/sample_720.png,448,266,465,284,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_720.png,[266. 448. 284. 465.],704,480,8
+db_lisa_tiny/sample_721.png,45,209,71,238,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_721.png,[209.  45. 238.  71.],704,480,8
+db_lisa_tiny/sample_722.png,554,217,574,238,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_722.png,[217. 554. 238. 574.],704,480,8
+db_lisa_tiny/sample_723.png,480,199,503,226,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_723.png,[199. 480. 226. 503.],704,480,8
+db_lisa_tiny/sample_724.png,35,212,55,236,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_724.png,[212.  35. 236.  55.],704,480,8
+db_lisa_tiny/sample_725.png,128,192,155,222,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_725.png,[192. 128. 222. 155.],704,480,8
+db_lisa_tiny/sample_726.png,320,265,350,299,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_726.png,[265. 320. 299. 350.],704,480,8
+db_lisa_tiny/sample_727.png,441,276,457,292,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_727.png,[276. 441. 292. 457.],704,480,8
+db_lisa_tiny/sample_728.png,519,211,543,237,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_728.png,[211. 519. 237. 543.],704,480,8
+db_lisa_tiny/sample_729.png,319,264,348,299,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_729.png,[264. 319. 299. 348.],704,480,8
+db_lisa_tiny/sample_730.png,586,190,617,225,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_730.png,[190. 586. 225. 617.],704,480,8
+db_lisa_tiny/sample_731.png,481,182,506,212,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_731.png,[182. 481. 212. 506.],704,480,8
+db_lisa_tiny/sample_732.png,539,124,580,169,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_732.png,[124. 539. 169. 580.],704,480,8
+db_lisa_tiny/sample_733.png,546,221,565,240,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_733.png,[221. 546. 240. 565.],704,480,8
+db_lisa_tiny/sample_734.png,600,208,620,229,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_734.png,[208. 600. 229. 620.],704,480,8
+db_lisa_tiny/sample_735.png,205,214,224,234,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_735.png,[214. 205. 234. 224.],704,480,8
+db_lisa_tiny/sample_736.png,549,176,580,213,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_736.png,[176. 549. 213. 580.],704,480,8
+db_lisa_tiny/sample_737.png,477,203,499,228,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_737.png,[203. 477. 228. 499.],704,480,8
+db_lisa_tiny/sample_738.png,566,215,586,236,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_738.png,[215. 566. 236. 586.],704,480,8
+db_lisa_tiny/sample_739.png,420,184,441,208,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_739.png,[184. 420. 208. 441.],704,480,8
+db_lisa_tiny/sample_740.png,572,257,605,296,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_740.png,[257. 572. 296. 605.],704,480,8
+db_lisa_tiny/sample_741.png,574,202,602,232,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_741.png,[202. 574. 232. 602.],704,480,8
+db_lisa_tiny/sample_742.png,71,219,93,243,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_742.png,[219.  71. 243.  93.],704,480,8
+db_lisa_tiny/sample_743.png,598,205,623,230,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_743.png,[205. 598. 230. 623.],704,480,8
+db_lisa_tiny/sample_744.png,417,275,438,298,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_744.png,[275. 417. 298. 438.],704,480,8
+db_lisa_tiny/sample_745.png,578,213,597,232,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_745.png,[213. 578. 232. 597.],704,480,8
+db_lisa_tiny/sample_746.png,415,257,441,287,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_746.png,[257. 415. 287. 441.],704,480,8
+db_lisa_tiny/sample_747.png,502,179,528,210,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_747.png,[179. 502. 210. 528.],704,480,8
+db_lisa_tiny/sample_748.png,83,222,102,243,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_748.png,[222.  83. 243. 102.],704,480,8
+db_lisa_tiny/sample_749.png,632,173,684,227,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_749.png,[173. 632. 227. 684.],704,480,8
+db_lisa_tiny/sample_750.png,525,20,549,47,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_750.png,[ 20. 525.  47. 549.],704,480,8
+db_lisa_tiny/sample_751.png,375,264,404,297,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_751.png,[264. 375. 297. 404.],704,480,8
+db_lisa_tiny/sample_752.png,520,64,565,119,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_752.png,[ 64. 520. 119. 565.],704,480,8
+db_lisa_tiny/sample_753.png,505,236,543,276,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_753.png,[236. 505. 276. 543.],704,480,8
+db_lisa_tiny/sample_754.png,454,236,467,250,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_754.png,[236. 454. 250. 467.],704,480,8
+db_lisa_tiny/sample_755.png,541,270,570,305,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_755.png,[270. 541. 305. 570.],704,480,8
+db_lisa_tiny/sample_756.png,139,225,159,246,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_756.png,[225. 139. 246. 159.],704,480,8
+db_lisa_tiny/sample_757.png,455,261,474,281,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_757.png,[261. 455. 281. 474.],704,480,8
+db_lisa_tiny/sample_758.png,342,268,371,303,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_758.png,[268. 342. 303. 371.],704,480,8
+db_lisa_tiny/sample_759.png,235,221,250,238,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_759.png,[221. 235. 238. 250.],704,480,8
+db_lisa_tiny/sample_760.png,481,248,510,278,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_760.png,[248. 481. 278. 510.],704,480,8
+db_lisa_tiny/sample_761.png,117,227,135,245,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_761.png,[227. 117. 245. 135.],704,480,8
+db_lisa_tiny/sample_762.png,664,196,690,222,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_762.png,[196. 664. 222. 690.],704,480,8
+db_lisa_tiny/sample_763.png,602,277,626,306,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_763.png,[277. 602. 306. 626.],704,480,8
+db_lisa_tiny/sample_764.png,518,299,537,321,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_764.png,[299. 518. 321. 537.],704,480,8
+db_lisa_tiny/sample_765.png,615,180,653,220,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_765.png,[180. 615. 220. 653.],704,480,8
+db_lisa_tiny/sample_766.png,117,222,138,245,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_766.png,[222. 117. 245. 138.],704,480,8
+db_lisa_tiny/sample_767.png,628,224,670,274,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_767.png,[224. 628. 274. 670.],704,480,8
+db_lisa_tiny/sample_768.png,509,138,544,177,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_768.png,[138. 509. 177. 544.],704,480,8
+db_lisa_tiny/sample_769.png,133,228,151,248,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_769.png,[228. 133. 248. 151.],704,480,8
+db_lisa_tiny/sample_770.png,387,259,416,291,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_770.png,[259. 387. 291. 416.],704,480,8
+db_lisa_tiny/sample_771.png,409,272,425,288,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_771.png,[272. 409. 288. 425.],704,480,8
+db_lisa_tiny/sample_772.png,144,227,162,247,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_772.png,[227. 144. 247. 162.],704,480,8
+db_lisa_tiny/sample_773.png,461,235,477,250,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_773.png,[235. 461. 250. 477.],704,480,8
+db_lisa_tiny/sample_774.png,157,202,182,229,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_774.png,[202. 157. 229. 182.],704,480,8
+db_lisa_tiny/sample_775.png,183,208,205,231,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_775.png,[208. 183. 231. 205.],704,480,8
+db_lisa_tiny/sample_776.png,579,108,627,161,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_776.png,[108. 579. 161. 627.],704,480,8
+db_lisa_tiny/sample_777.png,431,278,447,294,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_777.png,[278. 431. 294. 447.],704,480,8
+db_lisa_tiny/sample_778.png,78,205,104,232,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_778.png,[205.  78. 232. 104.],704,480,8
+db_lisa_tiny/sample_779.png,133,229,149,246,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_779.png,[229. 133. 246. 149.],704,480,8
+db_lisa_tiny/sample_780.png,485,219,501,239,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_780.png,[219. 485. 239. 501.],704,480,8
+db_lisa_tiny/sample_781.png,649,148,691,196,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_781.png,[148. 649. 196. 691.],704,480,8
+db_lisa_tiny/sample_782.png,477,253,503,280,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_782.png,[253. 477. 280. 503.],704,480,8
+db_lisa_tiny/sample_783.png,532,211,554,234,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_783.png,[211. 532. 234. 554.],704,480,8
+db_lisa_tiny/sample_784.png,533,17,558,46,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_784.png,[ 17. 533.  46. 558.],704,480,8
+db_lisa_tiny/sample_785.png,606,185,638,221,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_785.png,[185. 606. 221. 638.],704,480,8
+db_lisa_tiny/sample_786.png,543,19,569,50,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_786.png,[ 19. 543.  50. 569.],704,480,8
+db_lisa_tiny/sample_787.png,625,209,684,270,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_787.png,[209. 625. 270. 684.],704,480,8
+db_lisa_tiny/sample_788.png,444,256,466,280,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_788.png,[256. 444. 280. 466.],704,480,8
+db_lisa_tiny/sample_789.png,534,219,554,240,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_789.png,[219. 534. 240. 554.],704,480,8
+db_lisa_tiny/sample_790.png,466,256,488,281,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_790.png,[256. 466. 281. 488.],704,480,8
+db_lisa_tiny/sample_791.png,461,178,484,205,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_791.png,[178. 461. 205. 484.],704,480,8
+db_lisa_tiny/sample_792.png,518,221,539,244,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_792.png,[221. 518. 244. 539.],704,480,8
+db_lisa_tiny/sample_793.png,556,265,587,301,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_793.png,[265. 556. 301. 587.],704,480,8
+db_lisa_tiny/sample_794.png,424,182,445,208,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_794.png,[182. 424. 208. 445.],704,480,8
+db_lisa_tiny/sample_795.png,486,216,504,236,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_795.png,[216. 486. 236. 504.],704,480,8
+db_lisa_tiny/sample_796.png,564,200,590,230,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_796.png,[200. 564. 230. 590.],704,480,8
+db_lisa_tiny/sample_797.png,483,152,515,189,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_797.png,[152. 483. 189. 515.],704,480,8
+db_lisa_tiny/sample_798.png,553,180,584,214,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_798.png,[180. 553. 214. 584.],704,480,8
+db_lisa_tiny/sample_799.png,418,258,442,285,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_799.png,[258. 418. 285. 442.],704,480,8
+db_lisa_tiny/sample_800.png,247,227,262,241,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_800.png,[227. 247. 241. 262.],704,480,8
+db_lisa_tiny/sample_801.png,184,237,198,250,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_801.png,[237. 184. 250. 198.],704,480,8
+db_lisa_tiny/sample_802.png,564,195,589,224,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_802.png,[195. 564. 224. 589.],704,480,8
+db_lisa_tiny/sample_803.png,527,271,554,305,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_803.png,[271. 527. 305. 554.],704,480,8
+db_lisa_tiny/sample_804.png,494,279,519,310,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_804.png,[279. 494. 310. 519.],704,480,8
+db_lisa_tiny/sample_805.png,361,269,390,304,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_805.png,[269. 361. 304. 390.],704,480,8
+db_lisa_tiny/sample_806.png,431,178,454,204,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_806.png,[178. 431. 204. 454.],704,480,8
+db_lisa_tiny/sample_807.png,566,287,587,313,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_807.png,[287. 566. 313. 587.],704,480,8
+db_lisa_tiny/sample_808.png,19,210,46,238,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_808.png,[210.  19. 238.  46.],704,480,8
+db_lisa_tiny/sample_809.png,565,224,613,275,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_809.png,[224. 565. 275. 613.],704,480,8
+db_lisa_tiny/sample_810.png,448,260,468,282,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_810.png,[260. 448. 282. 468.],704,480,8
+db_lisa_tiny/sample_811.png,548,294,568,318,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_811.png,[294. 548. 318. 568.],704,480,8
+db_lisa_tiny/sample_812.png,416,259,440,289,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_812.png,[259. 416. 289. 440.],704,480,8
+db_lisa_tiny/sample_813.png,483,226,501,244,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_813.png,[226. 483. 244. 501.],704,480,8
+db_lisa_tiny/sample_814.png,520,226,537,245,speedLimit35,Test,640,480,lisa_resize/db_lisa_tiny/sample_814.png,[226. 520. 245. 537.],704,480,8
+db_lisa_tiny/sample_815.png,536,183,566,216,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_815.png,[183. 536. 216. 566.],704,480,8
+db_lisa_tiny/sample_816.png,518,216,540,239,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_816.png,[216. 518. 239. 540.],704,480,8
+db_lisa_tiny/sample_817.png,485,196,509,223,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_817.png,[196. 485. 223. 509.],704,480,8
+db_lisa_tiny/sample_818.png,625,266,650,296,speedLimit35,Test,704,480,lisa_resize/db_lisa_tiny/sample_818.png,[266. 625. 296. 650.],704,480,8
+db_lisa_tiny/sample_819.png,144,231,159,247,speedLimit35,Train,640,480,lisa_resize/db_lisa_tiny/sample_819.png,[231. 144. 247. 159.],704,480,8
+db_lisa_tiny/sample_820.png,421,259,445,286,speedLimit35,Train,704,480,lisa_resize/db_lisa_tiny/sample_820.png,[259. 421. 286. 445.],704,480,8
+db_lisa_tiny/sample_821.png,553,228,566,242,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_821.png,[228. 553. 242. 566.],704,480,9
+db_lisa_tiny/sample_822.png,446,215,466,237,speedLimit25,Test,640,480,lisa_resize/db_lisa_tiny/sample_822.png,[215. 446. 237. 466.],704,480,9
+db_lisa_tiny/sample_823.png,562,222,587,252,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_823.png,[222. 562. 252. 587.],704,480,9
+db_lisa_tiny/sample_824.png,607,20,634,52,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_824.png,[ 20. 607.  52. 634.],704,480,9
+db_lisa_tiny/sample_825.png,442,297,462,319,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_825.png,[297. 442. 319. 462.],704,480,9
+db_lisa_tiny/sample_826.png,432,187,452,211,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_826.png,[187. 432. 211. 452.],704,480,9
+db_lisa_tiny/sample_827.png,459,213,481,237,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_827.png,[213. 459. 237. 481.],704,480,9
+db_lisa_tiny/sample_828.png,395,278,417,301,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_828.png,[278. 395. 301. 417.],704,480,9
+db_lisa_tiny/sample_829.png,566,225,579,239,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_829.png,[225. 566. 239. 579.],704,480,9
+db_lisa_tiny/sample_830.png,536,246,565,278,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_830.png,[246. 536. 278. 565.],704,480,9
+db_lisa_tiny/sample_831.png,679,206,701,230,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_831.png,[206. 679. 230. 701.],704,480,9
+db_lisa_tiny/sample_832.png,578,113,594,133,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_832.png,[113. 578. 133. 594.],704,480,9
+db_lisa_tiny/sample_833.png,581,178,617,217,speedLimit25,Test,640,480,lisa_resize/db_lisa_tiny/sample_833.png,[178. 581. 217. 617.],704,480,9
+db_lisa_tiny/sample_834.png,633,245,661,275,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_834.png,[245. 633. 275. 661.],704,480,9
+db_lisa_tiny/sample_835.png,594,109,610,129,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_835.png,[109. 594. 129. 610.],704,480,9
+db_lisa_tiny/sample_836.png,435,265,460,292,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_836.png,[265. 435. 292. 460.],704,480,9
+db_lisa_tiny/sample_837.png,676,92,697,116,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_837.png,[ 92. 676. 116. 697.],704,480,9
+db_lisa_tiny/sample_838.png,583,219,611,251,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_838.png,[219. 583. 251. 611.],704,480,9
+db_lisa_tiny/sample_839.png,437,204,455,226,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_839.png,[204. 437. 226. 455.],704,480,9
+db_lisa_tiny/sample_840.png,449,279,471,303,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_840.png,[279. 449. 303. 471.],704,480,9
+db_lisa_tiny/sample_841.png,459,275,482,300,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_841.png,[275. 459. 300. 482.],704,480,9
+db_lisa_tiny/sample_842.png,395,282,416,305,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_842.png,[282. 395. 305. 416.],704,480,9
+db_lisa_tiny/sample_843.png,623,99,643,122,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_843.png,[ 99. 623. 122. 643.],704,480,9
+db_lisa_tiny/sample_844.png,592,222,610,239,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_844.png,[222. 592. 239. 610.],704,480,9
+db_lisa_tiny/sample_845.png,654,212,674,233,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_845.png,[212. 654. 233. 674.],704,480,9
+db_lisa_tiny/sample_846.png,655,93,675,116,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_846.png,[ 93. 655. 116. 675.],704,480,9
+db_lisa_tiny/sample_847.png,578,257,605,287,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_847.png,[257. 578. 287. 605.],704,480,9
+db_lisa_tiny/sample_848.png,612,213,643,250,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_848.png,[213. 612. 250. 643.],704,480,9
+db_lisa_tiny/sample_849.png,474,258,501,288,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_849.png,[258. 474. 288. 501.],704,480,9
+db_lisa_tiny/sample_850.png,586,26,612,56,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_850.png,[ 26. 586.  56. 612.],704,480,9
+db_lisa_tiny/sample_851.png,493,200,519,226,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_851.png,[200. 493. 226. 519.],704,480,9
+db_lisa_tiny/sample_852.png,534,265,559,294,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_852.png,[265. 534. 294. 559.],704,480,9
+db_lisa_tiny/sample_853.png,630,142,663,176,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_853.png,[142. 630. 176. 663.],704,480,9
+db_lisa_tiny/sample_854.png,435,180,458,207,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_854.png,[180. 435. 207. 458.],704,480,9
+db_lisa_tiny/sample_855.png,431,183,452,208,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_855.png,[183. 431. 208. 452.],704,480,9
+db_lisa_tiny/sample_856.png,452,261,479,291,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_856.png,[261. 452. 291. 479.],704,480,9
+db_lisa_tiny/sample_857.png,630,217,649,237,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_857.png,[217. 630. 237. 649.],704,480,9
+db_lisa_tiny/sample_858.png,501,253,530,285,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_858.png,[253. 501. 285. 530.],704,480,9
+db_lisa_tiny/sample_859.png,544,230,557,244,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_859.png,[230. 544. 244. 557.],704,480,9
+db_lisa_tiny/sample_860.png,552,31,574,60,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_860.png,[ 31. 552.  60. 574.],704,480,9
+db_lisa_tiny/sample_861.png,633,16,662,51,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_861.png,[ 16. 633.  51. 662.],704,480,9
+db_lisa_tiny/sample_862.png,668,9,698,47,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_862.png,[  9. 668.  47. 698.],704,480,9
+db_lisa_tiny/sample_863.png,420,269,443,296,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_863.png,[269. 420. 296. 443.],704,480,9
+db_lisa_tiny/sample_864.png,610,219,628,238,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_864.png,[219. 610. 238. 628.],704,480,9
+db_lisa_tiny/sample_865.png,514,50,535,77,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_865.png,[ 50. 514.  77. 535.],704,480,9
+db_lisa_tiny/sample_866.png,543,189,575,222,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_866.png,[189. 543. 222. 575.],704,480,9
+db_lisa_tiny/sample_867.png,440,293,460,316,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_867.png,[293. 440. 316. 460.],704,480,9
+db_lisa_tiny/sample_868.png,465,169,491,197,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_868.png,[169. 465. 197. 491.],704,480,9
+db_lisa_tiny/sample_869.png,446,176,469,203,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_869.png,[176. 446. 203. 469.],704,480,9
+db_lisa_tiny/sample_870.png,475,206,499,231,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_870.png,[206. 475. 231. 499.],704,480,9
+db_lisa_tiny/sample_871.png,651,207,686,245,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_871.png,[207. 651. 245. 686.],704,480,9
+db_lisa_tiny/sample_872.png,504,45,524,71,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_872.png,[ 45. 504.  71. 524.],704,480,9
+db_lisa_tiny/sample_873.png,637,96,657,119,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_873.png,[ 96. 637. 119. 657.],704,480,9
+db_lisa_tiny/sample_874.png,527,46,548,73,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_874.png,[ 46. 527.  73. 548.],704,480,9
+db_lisa_tiny/sample_875.png,587,112,603,132,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_875.png,[112. 587. 132. 603.],704,480,9
+db_lisa_tiny/sample_876.png,580,242,609,274,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_876.png,[242. 580. 274. 609.],704,480,9
+db_lisa_tiny/sample_877.png,539,36,560,63,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_877.png,[ 36. 539.  63. 560.],704,480,9
+db_lisa_tiny/sample_878.png,446,210,463,231,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_878.png,[210. 446. 231. 463.],704,480,9
+db_lisa_tiny/sample_879.png,469,214,485,234,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_879.png,[214. 469. 234. 485.],704,480,9
+db_lisa_tiny/sample_880.png,433,220,452,240,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_880.png,[220. 433. 240. 452.],704,480,9
+db_lisa_tiny/sample_881.png,399,275,422,300,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_881.png,[275. 399. 300. 422.],704,480,9
+db_lisa_tiny/sample_882.png,434,197,454,220,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_882.png,[197. 434. 220. 454.],704,480,9
+db_lisa_tiny/sample_883.png,443,285,463,308,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_883.png,[285. 443. 308. 463.],704,480,9
+db_lisa_tiny/sample_884.png,495,163,522,193,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_884.png,[163. 495. 193. 522.],704,480,9
+db_lisa_tiny/sample_885.png,432,182,454,208,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_885.png,[182. 432. 208. 454.],704,480,9
+db_lisa_tiny/sample_886.png,516,193,544,224,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_886.png,[193. 516. 224. 544.],704,480,9
+db_lisa_tiny/sample_887.png,613,103,631,124,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_887.png,[103. 613. 124. 631.],704,480,9
+db_lisa_tiny/sample_888.png,481,217,497,236,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_888.png,[217. 481. 236. 497.],704,480,9
+db_lisa_tiny/sample_889.png,578,147,608,180,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_889.png,[147. 578. 180. 608.],704,480,9
+db_lisa_tiny/sample_890.png,477,274,500,300,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_890.png,[274. 477. 300. 500.],704,480,9
+db_lisa_tiny/sample_891.png,495,48,514,73,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_891.png,[ 48. 495.  73. 514.],704,480,9
+db_lisa_tiny/sample_892.png,625,161,666,208,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_892.png,[161. 625. 208. 666.],704,480,9
+db_lisa_tiny/sample_893.png,604,105,621,126,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_893.png,[105. 604. 126. 621.],704,480,9
+db_lisa_tiny/sample_894.png,441,205,459,227,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_894.png,[205. 441. 227. 459.],704,480,9
+db_lisa_tiny/sample_895.png,567,29,592,59,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_895.png,[ 29. 567.  59. 592.],704,480,9
+db_lisa_tiny/sample_896.png,534,155,562,186,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_896.png,[155. 534. 186. 562.],704,480,9
+db_lisa_tiny/sample_897.png,578,223,594,239,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_897.png,[223. 578. 239. 594.],704,480,9
+db_lisa_tiny/sample_898.png,633,236,662,268,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_898.png,[236. 633. 268. 662.],704,480,9
+db_lisa_tiny/sample_899.png,407,273,430,299,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_899.png,[273. 407. 299. 430.],704,480,9
+db_lisa_tiny/sample_900.png,500,270,524,298,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_900.png,[270. 500. 298. 524.],704,480,9
