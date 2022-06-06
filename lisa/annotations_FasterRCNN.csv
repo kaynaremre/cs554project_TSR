@@ -88,7 +88,6 @@ db_lisa_tiny/sample_086.png,80,33,101,52,stop,Train,704,480,lisa_resize/db_lisa_
 db_lisa_tiny/sample_087.png,632,163,673,202,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_087.png,[163. 632. 202. 673.],704,480,1
 db_lisa_tiny/sample_088.png,342,234,385,272,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_088.png,[234. 342. 272. 385.],704,480,1
 db_lisa_tiny/sample_089.png,402,266,427,291,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_089.png,[266. 402. 291. 427.],704,480,1
-db_lisa_tiny/sample_090.png,651,167,696,207,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_090.png,[167. 651. 207. 696.],704,480,1
 db_lisa_tiny/sample_091.png,155,213,178,233,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_091.png,[213. 155. 233. 178.],704,480,1
 db_lisa_tiny/sample_092.png,10,251,46,284,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_092.png,[251.  10. 284.  46.],704,480,1
 db_lisa_tiny/sample_093.png,482,244,522,282,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_093.png,[244. 482. 282. 522.],704,480,1
@@ -103,7 +102,6 @@ db_lisa_tiny/sample_101.png,438,18,458,45,stop,Train,704,480,lisa_resize/db_lisa
 db_lisa_tiny/sample_102.png,433,228,451,242,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_102.png,[228. 433. 242. 451.],704,480,1
 db_lisa_tiny/sample_103.png,434,222,453,238,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_103.png,[222. 434. 238. 453.],704,480,1
 db_lisa_tiny/sample_104.png,494,253,533,291,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_104.png,[253. 494. 291. 533.],704,480,1
-db_lisa_tiny/sample_105.png,658,203,702,239,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_105.png,[203. 658. 239. 702.],704,480,1
 db_lisa_tiny/sample_106.png,33,289,55,311,stop,Test,704,480,lisa_resize/db_lisa_tiny/sample_106.png,[289.  33. 311.  55.],704,480,1
 db_lisa_tiny/sample_107.png,566,218,628,277,stop,Train,704,480,lisa_resize/db_lisa_tiny/sample_107.png,[218. 566. 277. 628.],704,480,1
 db_lisa_tiny/sample_108.png,633,196,671,229,stop,Train,640,480,lisa_resize/db_lisa_tiny/sample_108.png,[196. 633. 229. 671.],704,480,1
@@ -829,7 +827,6 @@ db_lisa_tiny/sample_827.png,459,213,481,237,speedLimit25,Train,640,480,lisa_resi
 db_lisa_tiny/sample_828.png,395,278,417,301,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_828.png,[278. 395. 301. 417.],704,480,9
 db_lisa_tiny/sample_829.png,566,225,579,239,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_829.png,[225. 566. 239. 579.],704,480,9
 db_lisa_tiny/sample_830.png,536,246,565,278,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_830.png,[246. 536. 278. 565.],704,480,9
-db_lisa_tiny/sample_831.png,679,206,701,230,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_831.png,[206. 679. 230. 701.],704,480,9
 db_lisa_tiny/sample_832.png,578,113,594,133,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_832.png,[113. 578. 133. 594.],704,480,9
 db_lisa_tiny/sample_833.png,581,178,617,217,speedLimit25,Test,640,480,lisa_resize/db_lisa_tiny/sample_833.png,[178. 581. 217. 617.],704,480,9
 db_lisa_tiny/sample_834.png,633,245,661,275,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_834.png,[245. 633. 275. 661.],704,480,9
@@ -843,7 +840,6 @@ db_lisa_tiny/sample_841.png,459,275,482,300,speedLimit25,Train,704,480,lisa_resi
 db_lisa_tiny/sample_842.png,395,282,416,305,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_842.png,[282. 395. 305. 416.],704,480,9
 db_lisa_tiny/sample_843.png,623,99,643,122,speedLimit25,Test,704,480,lisa_resize/db_lisa_tiny/sample_843.png,[ 99. 623. 122. 643.],704,480,9
 db_lisa_tiny/sample_844.png,592,222,610,239,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_844.png,[222. 592. 239. 610.],704,480,9
-db_lisa_tiny/sample_845.png,654,212,674,233,speedLimit25,Train,640,480,lisa_resize/db_lisa_tiny/sample_845.png,[212. 654. 233. 674.],704,480,9
 db_lisa_tiny/sample_846.png,655,93,675,116,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_846.png,[ 93. 655. 116. 675.],704,480,9
 db_lisa_tiny/sample_847.png,578,257,605,287,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_847.png,[257. 578. 287. 605.],704,480,9
 db_lisa_tiny/sample_848.png,612,213,643,250,speedLimit25,Train,704,480,lisa_resize/db_lisa_tiny/sample_848.png,[213. 612. 250. 643.],704,480,9
